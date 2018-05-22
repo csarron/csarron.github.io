@@ -1,0 +1,7 @@
+title: Qingqing Cao
+description: Qingqing Cao's website
+url: 'https://cscao.com/'
+permalink: '/:year-:month-:day-:title/'
+sass:
+  sass_dir: _scss
+  style: compressed
