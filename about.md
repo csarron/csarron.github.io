@@ -44,7 +44,7 @@ bio:
   focus on mobile deep learning systems and applications. I'm a member of
   [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna
   Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also
-  work closely with [Niranjan
+  work closely with Prof. [Niranjan
   Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
 history:
   - name: Education
