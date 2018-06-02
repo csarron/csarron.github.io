@@ -56,7 +56,7 @@
                 {% for item in page.contact %}
                 <div class="detail">
                     <span class="icon"><i class="fas fa fa-{{ item.style }}"></i></span>
-                    <span class="info">{{ item.info | markdownify }}</span>
+                    <span class="info">{{ item.info | markdownify  | remove: '<p>' | remove: '</p>' }}</span>
                 </div>{% endfor %}
             </div>
             <hr>
@@ -118,7 +118,7 @@
                                 <p class="text-muted clear-margin">
                                     <small>{{ item.duration }}</small>
                                 </p>{% if item.extra %}
-                                <p class="clear-margin">{{ item.extra | markdownify }}</p>{% endif %}
+                                <p class="clear-margin">{{ item.extra | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
                             </li>
                             {% endfor %}
                         </ul>
@@ -163,7 +163,7 @@
                     <h4 class="title text-uppercase">{{ misc-item.name }}</h4>
                     <div class="content card card-nested">
                         <div class="space-top labels">{% for item in misc-item.items %}
-                            <span class="label label-keyword">{{ item | markdownify }}</span>{% endfor %}
+                            <span class="label label-keyword">{{ item | markdownify  | remove: '<p>' | remove: '</p>' }}</span>{% endfor %}
                         </div>
                     </div>
                 </div>
