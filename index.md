@@ -1,6 +1,6 @@
 ---
 layout: landing
-keywords: 'cscao, qingqing cao, dev notes, machine learning, mobile systems, Android'
+keywords: 'awk.ai, qingqing cao, dev notes, machine learning, mobile systems, Android'
 background: assets/background.jpg
 avatar: assets/avatar.jpg
 motto: Keep your eyes on the stars and keep your feet on the ground
