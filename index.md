@@ -19,6 +19,6 @@ items:
     link: about
   - name: PGP
     fa-style: fas fa-2x fa-lock
-    link: 'https://pgp.mit.edu/pks/lookup?op=vindex&search=0x2D636F44'
+    link: 'https://pgp.key-server.io/search/0x2D636F44'
 ---
 
