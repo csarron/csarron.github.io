@@ -62,7 +62,7 @@
             <hr>
             <div class="contact-details clearfix">
                 <p class="text-bolder text-center" id="updates">{{ page.news-name }}</p>
-                <ul class="flex text-left">
+                <ul class="flex-more text-left justify-content-center">
                     {% for i in (0..2) %} {% assign item = page.news[i] %}
                     <li>
                         <p>
@@ -71,10 +71,13 @@
                     </li>
                     {% endfor %}
                 </ul>
-                <button class="btn text-toogle" data-toggle="collapse" data-target="#more-items" aria-expanded="false">
-                    <span class="text-collapsed btn-text">More...</span>
-                    <span class="text-expanded btn-text">Less...</span>
-                </button>
+                <div class="text-center">
+                    <button class="btn text-toogle" data-toggle="collapse" data-target="#more-items" aria-expanded="false">
+                        <span class="text-collapsed btn-text">More...</span>
+                        <span class="text-expanded btn-text">Less...</span>
+                    </button>
+                </div>
+
                 <ul class="collapse flex-more text-left text-muted" id="more-items">
                     {% for item in page.news offset:3 %}
                     <li>
