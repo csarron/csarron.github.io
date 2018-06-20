@@ -3,7 +3,7 @@ layout: page
 type: about
 title: Qingqing Cao
 native-name: 曹庆庆
-avatar: /assets/me_recent.jpg
+avatar: /assets/avatar.jpg
 intro: 'PhD student, Developer'
 social:
   - name: linkedin
