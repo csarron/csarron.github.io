@@ -39,13 +39,7 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  I'm Qingqing Cao, a Computer Science PhD candidate at Stony Brook University.
-  My research interests are mobile systems and edge computing,  with a current
-  focus on mobile deep learning systems and applications. I'm a member of
-  [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna
-  Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also
-  work closely with Prof. [Niranjan
-  Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
+  I'm a Computer Science PhD candidate at Stony Brook University. My research interests are NLP applications, mobile systems and edge computing. More recently, I study deep learning applications (question answering, machine translation, conversational bots etc.), systems (DL frameworks like TensorFlow, PyTorch) and hardware (mobile GPUs, accelerators such as [Movidis NCS](https://developer.movidius.com/) and [Edge TPU](https://aiyprojects.withgoogle.com/edge-tpu/)). I'm a member of [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also work closely with Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
 history:
   - name: Education
     style: fas fa-university
@@ -65,15 +59,19 @@ history:
         location: Stony Brook University
         position: Research Assistant
         extra: >
-            Projects: [PrIA](http://pria.cs.stonybrook.edu/), [UIWear](http://sbuwear.cs.stonybrook.edu/)  
+            Projects: [Private Intelligent Assistant](http://pria.cs.stonybrook.edu/), [UIWear](http://sbuwear.cs.stonybrook.edu/).
+      - duration: June, 2018 - Aug, 2018
+        location: Microsoft Research Redmond
+        position: Research Intern
+        extra: I worked with [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/) to build APIs for bot applications at scale.
       - duration: July, 2017 - Sept, 2017
         location: Bell Labs Cambridge
         position: Research Intern 
-        extra: Worked with [Nic Lane](http://niclane.org) on mobile deep learning projects      
+        extra: Worked with [Nic Lane](http://niclane.org) on mobile deep learning projects.
       - duration: Aug, 2015 - May, 2016
         location: Stony Brook University
         position: Teaching Assistant
-        extra: TA in undergrad computer networks course (CSE 310)
+        extra: TA in undergrad computer networks course (CSE 310).
 pub:
     name: Publications
     style: fab fa-leanpub
