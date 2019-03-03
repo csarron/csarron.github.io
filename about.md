@@ -21,6 +21,8 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
+  - date: 2019-03
+    info: EdgeQA accepted to MobiSys'19
   - date: 2018-05
     info: Starting Intership at Microsoft Research Redmond
   - date: 2018-03
@@ -76,6 +78,13 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
+        - id: edgeqa
+          type: MobiSys '19
+          author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
+          paper: "EdgeQA: A Question Answering System for Mobile Devices"
+          conference: the 17th ACM International Conference on Mobile Systems, Applications, and Services.
+          resource: >
+            [[to appear](#)]
         - id: uiwear
           type: MobiCom '17
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
