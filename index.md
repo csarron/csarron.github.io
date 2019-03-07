@@ -1,13 +1,13 @@
 ---
 layout: landing
-keywords: 'awk.ai, qingqing cao, dev notes, machine learning, mobile systems, Android'
+keywords: 'awk.ai, qingqing cao, dev notes, edge computing, mobile systems, nlp applications'
 background: assets/background.jpg
 avatar: assets/avatar.jpg
 motto: Keep your eyes on the stars and keep your feet on the ground
 items:
   - name: Tech
     fa-style: fas fa-2x fa-pencil-alt
-    link: 'https://notes.cscao.com'
+    link: 'notes/'
   # - name: Blog
   #   fa-style: fas fa-2x fa-book
   #   link: zh
@@ -19,6 +19,6 @@ items:
     link: about
   - name: PGP
     fa-style: fas fa-2x fa-lock
-    link: 'https://pgp.key-server.io/search/0x2D636F44'
+    link: 'http://keys.gnupg.net/pks/lookup?search=0x2D636F44&fingerprint=on'
 ---
 
