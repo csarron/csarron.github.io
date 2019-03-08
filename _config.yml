@@ -5,3 +5,5 @@ permalink: '/:year-:month-:day-:title/'
 sass:
   sass_dir: _scss
   style: compressed
+plugins:
+  - jekyll-redirect-from

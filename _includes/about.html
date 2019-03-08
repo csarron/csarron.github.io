@@ -50,7 +50,7 @@
             </div>
             <hr>
             <div class="social-links text-center">{% for item in page.social %}
-                <a href="{{ item.link }}" target="_blank"><i class="social-link fab fa-2x fa-{{ item.name }} link-{{ item.name }}"></i></a>{% endfor %}
+                <a href="{{ item.link }}" target="_blank"><i class="{{ item.style }}"></i></a>{% endfor %}
             </div>
             <div class="contact-details clearfix">
                 {% for item in page.contact %}
