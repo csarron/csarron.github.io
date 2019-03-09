@@ -57,50 +57,6 @@ button::-moz-focus-inner {
     border: 0;
 }
 
-@media print {
-    *,
-    :before,
-    :after {
-        color: #000 !important;
-        text-shadow: none !important;
-        background: transparent !important;
-        -webkit-box-shadow: none !important;
-        box-shadow: none !important;
-    }
-
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
-
-    a[href]:after {
-        content: " (" attr(href) ")";
-    }
-
-    a[href^="#"]:after {
-        content: "";
-    }
-
-    img {
-        page-break-inside: avoid;
-        max-width: 100% !important;
-    }
-
-    p,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
-
-    h3 {
-        page-break-after: avoid;
-    }
-
-    .label {
-        border: 1px solid #000;
-    }
-}
-
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -248,21 +204,6 @@ ul {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-}
-
-@media (min-width: 992px) {
-    .col-md-3,
-    .col-md-9 {
-        float: left;
-    }
-
-    .col-md-9 {
-        width: 75%;
-    }
-
-    .col-md-3 {
-        width: 25%;
-    }
 }
 
 .btn {
@@ -509,42 +450,12 @@ body {
     display: none;
 }
 
-@media (max-width: 480px) {
-    .card-nested {
-        padding: 5px 0;
-    }
-
-    .flex {
-        padding-left: 12px;
-    }
-
-    .flex-more {
-        padding-left: 12px;
-    }
-}
-
-@media (max-width: 992px) and (min-width: 480px) {
-    li {
-        margin: 0 20px;
-    }
-}
-
 .background-card {
     padding: 10px 20px;
 }
 
 .card-wrapper {
     padding: 5px;
-}
-
-@media (max-width: 992px) {
-    body {
-        background: #fff;
-    }
-
-    .card-wrapper {
-        float: none !important;
-    }
 }
 
 .text-bolder {
@@ -581,48 +492,10 @@ body {
     display: none;
 }
 
-@media (max-width: 480px) {
-    .background-details .detail .mobile-title {
-        display: inline-block;
-        margin-left: 5px;
-        font-weight: 700;
-        text-transform: uppercase;
-        vertical-align: middle;
-    }
-}
-
 .background-details .detail .icon,
 .background-details .detail .info {
     display: table-cell;
     padding: 0 10px;
-}
-
-@media (max-width: 480px) {
-    .background-details .detail {
-        display: block;
-    }
-
-    .background-details .detail .icon {
-        max-width: inherit;
-        min-width: inherit;
-        text-align: left;
-    }
-
-    .background-details .detail .icon,
-    .background-details .detail .info {
-        display: block;
-        padding: 10px 0;
-    }
-
-    .background-details .detail .title {
-        display: none;
-    }
-}
-
-@media (max-width: 480px) {
-    ul {
-        padding-left: 25px;
-    }
 }
 
 .current-event {
@@ -745,12 +618,6 @@ body {
     visibility: visible;
 }
 
-@media (max-width: 992px) {
-    .profile-card-wrapper {
-        position: relative;
-    }
-}
-
 .profile-pic {
     padding: 20px 0;
 }
@@ -759,27 +626,9 @@ body {
     margin-left: 12px;
 }
 
-@media (max-width: 992px) {
-    .profile-pic {
-        padding: 10px 0;
-    }
-}
-
 .profile-pic img {
     width: 160px;
     height: 160px;
-}
-
-@media (max-width: 992px) {
-    .name {
-        margin-top: 10px;
-    }
-}
-
-@media (max-width: 768px) {
-    .contact-details {
-        text-align: center;
-    }
 }
 
 .contact-details .detail {
@@ -804,42 +653,6 @@ body {
 .contact-details .detail .info {
     display: table-cell;
     vertical-align: middle;
-}
-
-@media (max-width: 768px) {
-    .contact-details .detail {
-        position: relative;
-        float: left;
-        width: 100%;
-        min-height: 1px;
-        padding-left: 15px;
-        padding-right: 15px;
-    }
-}
-
-@media (max-width: 992px) {
-    .contact-details .detail {
-        position: relative;
-        min-height: 1px;
-        padding: 10px;
-    }
-
-    .contact-details .detail .icon,
-    .contact-details .detail .info {
-        display: inline-block;
-    }
-}
-
-@media (max-width: 992px) {
-    .contact-details {
-        display: table;
-        margin: auto;
-    }
-
-    .detail {
-        float: left;
-        display: table-cell;
-    }
 }
 
 .social-links {
