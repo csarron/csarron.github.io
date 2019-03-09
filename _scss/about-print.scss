@@ -1,0 +1,41 @@
+*,
+:before,
+:after {
+    color: #000 !important;
+    text-shadow: none !important;
+    background: transparent !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+a,
+a:visited {
+    text-decoration: underline;
+}
+
+a[href]:after {
+    content: " (" attr(href) ")";
+}
+
+a[href^="#"]:after {
+    content: "";
+}
+
+img {
+    page-break-inside: avoid;
+    max-width: 100% !important;
+}
+
+p,
+h3 {
+    orphans: 3;
+    widows: 3;
+}
+
+h3 {
+    page-break-after: avoid;
+}
+
+.label {
+    border: 1px solid #000;
+}
