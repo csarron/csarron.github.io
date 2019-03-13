@@ -2,8 +2,8 @@
 layout: page
 type: about
 redirect_from: 
-  - /about/
-  - /notes/about/
+  - /about
+  - /notes/about
 title: Qingqing Cao
 native-name: 曹庆庆
 avatar: /assets/avatar.jpg
