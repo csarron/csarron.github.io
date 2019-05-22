@@ -27,7 +27,7 @@ contact:
 news-name: Updates
 news:
   - date: 2019-03
-    info: EdgeQA accepted to MobiSys'19
+    info: DeQA accepted to MobiSys'19
   - date: 2018-05
     info: Starting Intership at Microsoft Research Redmond
   - date: 2018-03
@@ -83,10 +83,10 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
-        - id: edgeqa
+        - id: deqa
           type: MobiSys '19
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
-          paper: "EdgeQA: A Question Answering System for Mobile Devices"
+          paper: "DeQA: On-Device Question Answering"
           conference: the 17th ACM International Conference on Mobile Systems, Applications, and Services.
           resource: >
             [[to appear](#)]
