@@ -26,6 +26,8 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
+  - date: 2019-06
+    info: Attending MobiSys 2019
   - date: 2019-03
     info: DeQA accepted to MobiSys'19
   - date: 2018-05
