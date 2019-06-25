@@ -91,7 +91,7 @@ pub:
           paper: "DeQA: On-Device Question Answering"
           conference: the 17th ACM International Conference on Mobile Systems, Applications, and Services.
           resource: >
-            [[pdf](/assets/deqa.pdf)]
+            [[pdf](/assets/deqa.pdf)], [[slides](/assets/deqa_slides.pptx)]
         - id: uiwear
           type: MobiCom '17
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
