@@ -50,7 +50,7 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  I'm a Computer Science PhD candidate at Stony Brook University. My research topics are NLP applications, mobile systems and edge computing. More recently, I focus on building efficient NLP applications (on-device question answering, efficient Transformers). I'm a member of [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also work closely with Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
+  I'm a Computer Science PhD candidate at Stony Brook University. My research topics are NLP applications, mobile systems and edge computing. More recently, I focus on building efficient NLP applications (on-device question answering, faster Transformers) for both edge and cloud. I'm a member of [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also work closely with Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
 history:
   - name: Education
     style: fas fa-university
