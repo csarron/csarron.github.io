@@ -15,6 +15,8 @@ social:
     link: 'https://www.linkedin.com/in/qqcao'
   - style: social-link fab fa-2x fa-github link-github
     link: 'https://github.com/csarron'
+  - style: social-link fab fa-2x fa-twitter link-twitter
+    link: https://twitter.com/system_nlp
 contact:
   - style: location-arrow
     info: 'Stony Brook, New York'

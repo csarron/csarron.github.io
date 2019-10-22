@@ -863,7 +863,6 @@ body {
 .link-github {
     color: #454545;
 }
-
 .link-github:hover,
 .link-github:focus {
     text-decoration: none;
@@ -873,9 +872,26 @@ body {
 .link-linkedin {
     color: #007bb6;
 }
-
 .link-linkedin:hover,
 .link-linkedin:focus {
     text-decoration: none;
     color: #005983;
+}
+
+.link-twitter {
+    color: #38A1F3;
+}
+.link-twitter:hover,
+.link-twitter:focus {
+    text-decoration: none;
+    color: #037cb4;
+}
+
+.link-blog {
+    color: rgb(11, 133, 226);
+}
+.link-blog:hover,
+.link-blog:focus {
+    text-decoration: none;
+    color: #045e88;
 }

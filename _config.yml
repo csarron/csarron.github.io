@@ -6,4 +6,5 @@ sass:
   sass_dir: _scss
   style: compressed
 plugins:
+  - jekyll-minifier
   - jekyll-redirect-from
