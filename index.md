@@ -28,8 +28,8 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
-  - date: 2019-09
-    info: Submitted one paper to ICLR 2020
+  - date: 2019-12
+    info: Submitted one paper to ACL 2020
   - date: 2019-06
     info: Attending MobiSys 2019
   - date: 2019-03
