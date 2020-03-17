@@ -28,6 +28,8 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
+  - date: 2020-02
+    info: Invited to serve on the PC for ACL 2020 (demo track)
   - date: 2019-12
     info: Submitted one paper to ACL 2020
   - date: 2019-06
@@ -128,6 +130,8 @@ notable:
   - name: Service
     style: fas fa-hand-paper
     items:
+      - name: ACL 2020 TPC (demo track)
+        date: 2020
       - name: MobiSys PhD Forum TPC
         date: 2018
       - name: IEEE Transactions on Mobile Computing (TMC) Reviewer
