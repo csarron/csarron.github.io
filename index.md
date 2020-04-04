@@ -29,7 +29,7 @@ contact:
 news-name: Updates
 news:
   - date: 2020-04
-    info: One paper accepted to ACL 2020
+    info: One long paper accepted to ACL 2020
   - date: 2020-02
     info: Invited to serve on the PC for ACL 2020 (demo track)
   - date: 2019-06
@@ -92,7 +92,7 @@ pub:
     style: fab fa-leanpub
     items:
         - id: dec-bert
-          type: ACL '20
+          type: ACL '20 (long paper)
           author: <strong>Qingqing Cao</strong>, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: Decomposing Pre-trained Transformers for Faster Question Answering
           conference: the 58th annual meeting of the Association for Computational Linguistics.
