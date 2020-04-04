@@ -32,8 +32,6 @@ news:
     info: One paper accepted to ACL 2020
   - date: 2020-02
     info: Invited to serve on the PC for ACL 2020 (demo track)
-  - date: 2019-12
-    info: Submitted one paper to ACL 2020
   - date: 2019-06
     info: Attending MobiSys 2019
   - date: 2019-03
