@@ -28,6 +28,8 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
+  - date: 2020-04
+    info: One paper accepted to ACL 2020
   - date: 2020-02
     info: Invited to serve on the PC for ACL 2020 (demo track)
   - date: 2019-12
