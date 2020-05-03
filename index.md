@@ -91,13 +91,13 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
-        - id: dec-bert
+        - id: deformer
           type: ACL '20 (long paper)
           author: <strong>Qingqing Cao</strong>, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
-          paper: Decomposing Pre-trained Transformers for Faster Question Answering
+          paper: "Deformer: Decomposing Pre-trained Transformers for Faster Question Answering"
           conference: the 58th annual meeting of the Association for Computational Linguistics.
           resource: >
-            [[to appear](/)]
+            [[pdf](/assets/deformer.pdf)]
         - id: deqa
           type: MobiSys '19
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
