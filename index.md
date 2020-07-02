@@ -97,35 +97,35 @@ pub:
           paper: "Deformer: Decomposing Pre-trained Transformers for Faster Question Answering"
           conference: the 58th annual meeting of the Association for Computational Linguistics.
           resource: >
-            [[pdf](/assets/deformer.pdf), [slides_ppt](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [slides_google](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ)]
+            [[paper](https://www.aclweb.org/anthology/2020.acl-main.411), [slides_ppt](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [slides_google](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ), [bibtex](https://www.aclweb.org/anthology/2020.acl-main.411.bib)]
         - id: deqa
           type: MobiSys '19
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
           paper: "DeQA: On-Device Question Answering"
           conference: the 17th ACM International Conference on Mobile Systems, Applications, and Services.
           resource: >
-            [[pdf](/assets/deqa.pdf)], [[slides](/assets/deqa_slides.pptx)]
+            [[pdf](/assets/deqa.pdf)], [[slides](/assets/deqa_slides.pptx), [bibtex](/assets/deqa.bib)]
         - id: uiwear
           type: MobiCom '17
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: the 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
-            [[pdf](/assets/uiwear.pdf)], [[slides](/assets/uiwear_slides.pptx)], [[code](https://github.com/SBUNetSys/UIWear)]
+            [[pdf](/assets/uiwear.pdf)], [[slides](/assets/uiwear_slides.pptx)], [[code](https://github.com/SBUNetSys/UIWear), [bibtex](/assets/uiwear.bib)]
         - id: uiwear_demo
           type: MobiCom '17 Demo
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: the 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
-            [[pdf](/assets/uiwear_demo.pdf)], [[poster](/assets/uiwear_poster.pdf)], [[video](https://youtu.be/YEQ3HNeQnts)]
+            [[pdf](/assets/uiwear_demo.pdf)], [[poster](/assets/uiwear_poster.pdf)], [[video](https://youtu.be/YEQ3HNeQnts), [bibtex](/assets/uiwear_demo.bib)]
         - id: mobirnn
           type: EMDL '17
           author: <strong>Qingqing Cao</strong>, Niranjan Balasubramanian, Aruna Balasubramanian.
           paper: "MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU"
           conference: 1st International Workshop on Embedded and Mobile Deep Learning.
           resource: >
-            [[pdf](/assets/mobirnn.pdf)], [[slides](/assets/mobirnn_slides.pptx)], [[code](https://github.com/SBUNetSys/MobiRNN-EMDL17)]
+            [[pdf](/assets/mobirnn.pdf)], [[slides](/assets/mobirnn_slides.pptx)], [[code](https://github.com/SBUNetSys/MobiRNN-EMDL17), [bibtex](/assets/mobirnn.bib)]
 notable:
   - name: Awards
     style: fas fa-trophy
