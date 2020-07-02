@@ -97,7 +97,7 @@ pub:
           paper: "Deformer: Decomposing Pre-trained Transformers for Faster Question Answering"
           conference: the 58th annual meeting of the Association for Computational Linguistics.
           resource: >
-            [[pdf](/assets/deformer.pdf), [[slides_ppt](/assets/deformer_slides.pptx), [[code](https://github.com/StonyBrookNLP/deformer), [[slides_google](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ), ]
+            [[pdf](/assets/deformer.pdf), [slides_ppt](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [slides_google](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ)]
         - id: deqa
           type: MobiSys '19
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
