@@ -97,7 +97,7 @@ pub:
           paper: "Deformer: Decomposing Pre-trained Transformers for Faster Question Answering"
           conference: the 58th annual meeting of the Association for Computational Linguistics.
           resource: >
-            [paper](https://www.aclweb.org/anthology/2020.acl-main.411), [slides_ppt](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [slides_google](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ), [bibtex](https://www.aclweb.org/anthology/2020.acl-main.411.bib)
+            [pdf](/assets/deformer.pdf), [slides](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [bibtex](https://www.aclweb.org/anthology/2020.acl-main.411.bib),  [ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.411), [google_slides](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ)
         - id: deqa
           type: MobiSys '19
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
@@ -118,7 +118,7 @@ pub:
           paper: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: the 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
-            [pdf](/assets/uiwear_demo.pdf), [poster](/assets/uiwear_poster.pdf)], [video](https://youtu.be/YEQ3HNeQnts), [bibtex](/assets/uiwear_demo.bib)
+            [pdf](/assets/uiwear_demo.pdf), [poster](/assets/uiwear_poster.pdf), [video](https://youtu.be/YEQ3HNeQnts), [bibtex](/assets/uiwear_demo.bib)
         - id: mobirnn
           type: EMDL '17
           author: <strong>Qingqing Cao</strong>, Niranjan Balasubramanian, Aruna Balasubramanian.
