@@ -28,6 +28,8 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
+  - date: 2020-07
+    info: Attended ACL 2020, really amazing!
   - date: 2020-04
     info: One long paper accepted to ACL 2020
   - date: 2020-02
