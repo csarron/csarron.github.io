@@ -29,7 +29,7 @@ contact:
 news-name: Updates
 news:
   - date: 2020-07
-    info: Attended ACL 2020, really [amazing](https://awk.ai/notes/2020/07/10/acl-2020-adventure.html)!
+    info: Attended [amazing ACL 2020](https://awk.ai/notes/2020/07/10/acl-2020-adventure.html)!
   - date: 2020-04
     info: One long paper accepted to ACL 2020
   - date: 2020-02
