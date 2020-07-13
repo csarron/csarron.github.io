@@ -139,6 +139,8 @@ notable:
   - name: Service
     style: fas fa-hand-paper
     items:
+      - name: Student Volunteer for ACL 2020
+        date: 2020
       - name: ACL 2020 TPC (demo track)
         date: 2020
       - name: MobiSys PhD Forum TPC
