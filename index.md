@@ -7,7 +7,7 @@ redirect_from:
 title: Qingqing Cao
 native-name: 曹庆庆
 avatar: /assets/avatar.jpg
-intro: 'PhD student, Developer'
+intro: 'PhD Student, Developer'
 social:
   - style: social-link fas fa-2x fa-blog link-blog
     link: 'notes/'
@@ -17,6 +17,8 @@ social:
     link: 'https://github.com/csarron'
   - style: social-link fab fa-2x fa-twitter link-twitter
     link: https://twitter.com/sysnlp
+  - style: social-link fab fa-2x fa-medium link-medium
+    link: https://medium.com/@awk.ai
 contact:
   - style: location-arrow
     info: 'Stony Brook, New York'
@@ -147,19 +149,18 @@ notable:
         date: 2018
       - name: IEEE Transactions on Mobile Computing (TMC) Reviewer
         date: 2018
-misc:
-  - name: Skills
-    style: fas fa-code
-    items:
-      - Android
-      - Java
-      - C
-      - Python      
-  - name: Interests
-    style: fas fa-heart
-    items:
-      - >
-        [writing](/notes/)
-      - tweaking
-      - travelling
+# misc:
+#   - name: Skills
+#     style: fas fa-code
+#     items:
+#       - Android
+#       - Java
+#       - C
+#       - Python      
+#   - name: Interests
+#     style: fas fa-heart
+#     items:
+#       - >
+#         [writing](/notes/)
+#       - exploring
 ---
