@@ -135,20 +135,16 @@ notable:
     style: fas fa-trophy
     items:
       - name: MobiSys 2017 Student Travel Grant
-        date: 2017
-      - name: Special CS Department Chair Fellowship
-        date: 2015
+      - name: Special CS Department Chair Fellowship, 2015
   - name: Service
     style: fas fa-hand-paper
     items:
+      - name: Secondary Reviewer for EMNLP 2020
       - name: Student Volunteer for ACL 2020
-        date: 2020
-      - name: ACL 2020 TPC (demo track)
-        date: 2020
-      - name: MobiSys PhD Forum TPC
-        date: 2018
-      - name: IEEE Transactions on Mobile Computing (TMC) Reviewer
-        date: 2018
+      - name: ACL 2020 [Program Committee](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf) (demo track)
+      - name: MobiSys 2018 PhD Forum [Program Committee](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)
+      - name: IEEE Transactions on Mobile Computing (TMC) [Reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf), 2018
+      - name: Secondary Reviewer for IMC 2017, MobiSys 2017-2020, MobiCom 2019-2020, EuroSys 2019, SIGCOMM 2019-2020
 # misc:
 #   - name: Skills
 #     style: fas fa-code

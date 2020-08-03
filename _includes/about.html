@@ -82,7 +82,7 @@
                     {% for item in page.news offset:3 %}
                     <li>
                         <p>
-                            <span class="old">{{ item.date }}</span> {{ item.info }}
+                            <span class="old">{{ item.date }}</span> {{ item.info  | markdownify }}
                         </p>
                     </li>
                     {% endfor %}
@@ -152,7 +152,7 @@
                 <div class="info">
                     <h4 class="title text-uppercase">{{ notable-item.name }}</h4>
                     <div class="content card card-nested">{% for item in notable-item.items %}
-                        <p><strong>{{ item.name }}</strong>, {{ item.date }}</p>
+                        <p><strong>{{ item.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong></p>
                         {% endfor %}
                     </div>
                 </div>
