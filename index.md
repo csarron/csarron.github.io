@@ -58,7 +58,7 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  I'm a Computer Science PhD candidate at Stony Brook University. My research topics are NLP applications, mobile systems, and edge computing. More recently, I focus on building efficient NLP applications (on-device question answering, faster Transformers) for both edge and cloud. I'm a member of [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also work closely with Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
+  I'm a Computer Science PhD candidate at Stony Brook University. My research topics are NLP applications, mobile computing, and systems for machine learning. More recently, I focus on building efficient NLP applications (on-device question answering, faster Transformers) for both edge and cloud. I'm a member of [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also work closely with Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
 history:
   - name: Education
     style: fas fa-university
@@ -98,7 +98,7 @@ pub:
         - id: deformer
           type: ACL '20 (long paper)
           author: <strong>Qingqing Cao</strong>, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
-          paper: "Deformer: Decomposing Pre-trained Transformers for Faster Question Answering"
+          paper: "DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering"
           conference: the 58th annual meeting of the Association for Computational Linguistics.
           resource: >
             [pdf](/assets/deformer.pdf), [slides](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [bibtex](https://www.aclweb.org/anthology/2020.acl-main.411.bib),  [acl_anthology](https://www.aclweb.org/anthology/2020.acl-main.411), [google_slides](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ), [presentation_video](https://slideslive.com/38929429/deformer-decomposing-pretrained-transformers-for-faster-question-answering)
