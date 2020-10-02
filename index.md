@@ -30,6 +30,10 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
+  - date: 2020-09
+    info: One paper accepted to [SustaiNLP workshop](https://sites.google.com/view/sustainlp2020/home) @ EMNLP 2020
+  - date: 2020-09
+    info: Happy to serve on the [EuroSys 2021](https://2021.eurosys.org/) shadow PC
   - date: 2020-07
     info: Attended [amazing ACL 2020](https://awk.ai/notes/2020/07/10/acl-2020-adventure.html)!
   - date: 2020-04
