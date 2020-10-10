@@ -30,6 +30,8 @@ contact:
       [CV](/assets/qingqingcao_cv.pdf)
 news-name: Updates
 news:
+  - date: 2020-10
+    info: Happy to share that I just passed the [thesis proposal](https://www.stonybrook.edu/commcms/sciedphd/program/thesis.php) defense! Feel free to check out the [slides](https://docs.google.com/presentation/d/e/2PACX-1vQZMuF24WD1YoYNkIBCi2LTpCtx1yxFvHWbqS3Nnwcc_UMPB4K4q0pckTzM6dWdrY0MiCXc4w99AQW9/pub?start=false&loop=false&delayms=3000).
   - date: 2020-09
     info: One paper accepted to [SustaiNLP workshop](https://sites.google.com/view/sustainlp2020/home) @ EMNLP 2020
   - date: 2020-09
@@ -143,6 +145,7 @@ notable:
   - name: Service
     style: fas fa-hand-paper
     items:
+      - name: Eurosys 2021 Shadow TPC
       - name: Secondary Reviewer for EMNLP 2020
       - name: Student Volunteer for ACL 2020
       - name: ACL 2020 [Program Committee](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf) (demo track)
