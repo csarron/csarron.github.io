@@ -1,0 +1,1 @@
+He is a 4th-year Ph.D. candidate in Computer Science at Stony Brook University. His research interests lie in the intersection of NLP applications and mobile systems, or AI systems more broadly. More recently, he's worked on optimizing deep learning applications and systems such as building efficient question answering systems for mobile.
