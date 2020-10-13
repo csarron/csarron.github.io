@@ -2,6 +2,9 @@ title: Qingqing Cao
 description: Qingqing Cao's website
 url: 'https://awk.ai'
 permalink: '/:year-:month-:day-:title/'
+# Build settings
+markdown: kramdown
+theme: minima
 sass:
   sass_dir: _scss
   style: compressed

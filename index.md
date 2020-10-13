@@ -145,7 +145,7 @@ notable:
   - name: Service
     style: fas fa-hand-paper
     items:
-      - name: [Grad Buddies Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html) Mentor
+      - name: Grad Buddies [Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html) Mentor
       - name: Eurosys 2021 Shadow TPC
       - name: Secondary Reviewer for EMNLP 2020
       - name: Student Volunteer for ACL 2020
