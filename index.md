@@ -101,36 +101,43 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
+        - id: sustainlp
+          type: SustaiNLP'20 (co-located with EMNLP'20)
+          author: <strong>Qingqing Cao</strong>, Aruna Balasubramanian and Niranjan Balasubramanian.
+          paper: "Towards Accurate and Reliable Energy Measurement of NLP Models"
+          conference: First Workshop on Simple and Efficient Natural Language Processing.
+          resource: >
+            [pdf](/assets/sustainlp.pdf)
         - id: deformer
-          type: ACL '20 (long paper)
+          type: ACL'20 (long paper)
           author: <strong>Qingqing Cao</strong>, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering"
           conference: the 58th annual meeting of the Association for Computational Linguistics.
           resource: >
             [pdf](/assets/deformer.pdf), [slides](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [bibtex](https://www.aclweb.org/anthology/2020.acl-main.411.bib),  [acl](https://www.aclweb.org/anthology/2020.acl-main.411), [gslides](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ), [presentation](https://slideslive.com/38929429/deformer-decomposing-pretrained-transformers-for-faster-question-answering)
         - id: deqa
-          type: MobiSys '19
+          type: MobiSys'19
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
           paper: "DeQA: On-Device Question Answering"
           conference: the 17th ACM International Conference on Mobile Systems, Applications, and Services.
           resource: >
             [pdf](/assets/deqa.pdf), [slides](/assets/deqa_slides.pptx), [code](https://github.com/SBUNetSys/DeQA), [bibtex](/assets/deqa.bib)
         - id: uiwear
-          type: MobiCom '17
+          type: MobiCom'17
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: the 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
             [pdf](/assets/uiwear.pdf), [slides](/assets/uiwear_slides.pptx), [code](https://github.com/SBUNetSys/UIWear), [bibtex](/assets/uiwear.bib)
         - id: uiwear_demo
-          type: MobiCom '17 Demo
+          type: MobiCom'17 Demo
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: the 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
             [pdf](/assets/uiwear_demo.pdf), [poster](/assets/uiwear_poster.pdf), [video](https://youtu.be/YEQ3HNeQnts), [bibtex](/assets/uiwear_demo.bib)
         - id: mobirnn
-          type: EMDL '17
+          type: EMDL'17 (co-located with MobiSys'17)
           author: <strong>Qingqing Cao</strong>, Niranjan Balasubramanian, Aruna Balasubramanian.
           paper: "MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU"
           conference: 1st International Workshop on Embedded and Mobile Deep Learning.
@@ -145,6 +152,7 @@ notable:
   - name: Service
     style: fas fa-hand-paper
     items:
+      - name: NAACL 2021 PC
       - name: Grad Buddies [Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html) Mentor
       - name: Eurosys 2021 Shadow TPC
       - name: Secondary Reviewer for EMNLP 2020
