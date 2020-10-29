@@ -102,7 +102,7 @@ pub:
     style: fab fa-leanpub
     items:
         - id: sustainlp
-          type: SustaiNLP '20 (co-located with EMNLP 2020)
+          type: SustaiNLP@EMNLP '20
           author: <strong>Qingqing Cao</strong>, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "Towards Accurate and Reliable Energy Measurement of NLP Models"
           conference: First Workshop on Simple and Efficient Natural Language Processing.
@@ -137,7 +137,7 @@ pub:
           resource: >
             [pdf](/assets/uiwear_demo.pdf), [poster](/assets/uiwear_poster.pdf), [video](https://youtu.be/YEQ3HNeQnts), [bibtex](/assets/uiwear_demo.bib)
         - id: mobirnn
-          type: EMDL '17 (co-located with MobiSys 2017)
+          type: EMDL@MobiSys '17
           author: <strong>Qingqing Cao</strong>, Niranjan Balasubramanian, Aruna Balasubramanian.
           paper: "MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU"
           conference: 1st International Workshop on Embedded and Mobile Deep Learning.
