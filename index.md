@@ -4,7 +4,7 @@ type: about
 redirect_from: 
   - /about/
   - /notes/about/
-title: Qingqing Cao
+title: Qingqing Cao | 曹庆庆
 native-name: 曹庆庆
 avatar: /assets/avatar.jpg
 intro: 'PhD Student, Developer'
@@ -28,7 +28,11 @@ contact:
   - style: briefcase
     info: |
       [CV](/assets/qingqingcao_cv.pdf)
-news-name: Updates
+  - style: weixin
+    info: |
+      id: [awk-ai](/wx.jpg)
+      
+news-name: News
 news:
   - date: 2020-10
     info: Happy to share that I just passed the [thesis proposal](https://www.stonybrook.edu/commcms/sciedphd/program/thesis.php) defense! Feel free to check out the [slides](https://docs.google.com/presentation/d/13PJSnAYcsjfDZPyj6L_kCMPq34-1Qc_OWnTd4sZPhWc/).
@@ -64,7 +68,9 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  I'm a Computer Science PhD candidate at Stony Brook University. My research topics are NLP applications, mobile computing, and systems for machine learning. More recently, I focus on building efficient NLP applications (on-device question answering, faster Transformers) for both edge and cloud. I'm a member of [NetSys Lab](https://netsys.cs.stonybrook.edu/) directed by Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html). I also work closely with Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html).
+  I’m a Computer Science Ph.D. candidate at Stony Brook University. My research topics are natural language processing (NLP), mobile computing, and machine learning systems. I recently focused on building efficient NLP applications (on-device question answering, faster Transformers, energy-efficient NLP) for both edge and cloud. I have two fantastic advisors: Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). I'm on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
+  <br>
+  <span class="update">Updates</span>: I'm looking for postdoc openings in academia or research positions in the industry.
 history:
   - name: Education
     style: fas fa-university
