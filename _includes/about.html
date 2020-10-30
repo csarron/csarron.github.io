@@ -139,7 +139,7 @@
                     <div class="content card card-nested">{% for item in page.pub.items %}
                         <p id="{{ item.id }}">
                             <span class="highlight">{{ item.type }}</span>{{ item.author }}
-                            <em class="text-bolder">{{ item.paper }}</em>, {{ item.conference }} {{ item.resource | markdownify | remove: '<p>' | remove: '</p>' }}
+                            <span class="text-bolder">{{ item.paper }}</span>, {{ item.conference }} {{ item.resource | markdownify | remove: '<p>' | remove: '</p>' }}
                         </p>{% endfor %}
                     </div>
                 </div>
