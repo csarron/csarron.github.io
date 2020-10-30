@@ -4,7 +4,7 @@ type: about
 redirect_from: 
   - /about/
   - /notes/about/
-title: Qingqing Cao | 曹庆庆
+title: Qingqing Cao
 native-name: 曹庆庆
 avatar: /assets/avatar.jpg
 intro: 'PhD Student, Developer'

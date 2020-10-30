@@ -45,7 +45,7 @@
                 <img class="media-object img-circle center-block" alt="avatar" itemprop="image" src="{{ page.avatar }}">
             </div>
             <div class="name-and-profession">
-                <h3 class="text-center text-bolder name" itemprop="name">{{ page.title }}</h3>
+                <h3 class="text-center text-bolder name" itemprop="name">{{ page.title }}{% if page.native-name %} | {{ page.native-name }}{% endif %}</h3>
                 <h5 class="text-muted text-center" itemprop="jobTitle">{{ page.intro }}</h5>
             </div>
             <hr>
