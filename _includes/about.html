@@ -152,7 +152,7 @@
                 <div class="info">
                     <h4 class="title text-uppercase">{{ notable-item.name }}</h4>
                     <div class="content card card-nested">{% for item in notable-item.items %}
-                        <p><strong>{{ item.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong></p>
+                        <p>{{ item.name | markdownify | remove: '<p>' | remove: '</p>'}}</p>
                         {% endfor %}
                     </div>
                 </div>

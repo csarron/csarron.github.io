@@ -68,7 +68,7 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  I’m a Computer Science Ph.D. candidate at Stony Brook University. My research topics are natural language processing (NLP), mobile computing, and machine learning systems. I recently focused on building efficient NLP applications (on-device question answering, faster Transformers, energy-efficient NLP) for both edge and cloud. I have two fantastic advisors: Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). I'm on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
+  [Talk version](/bio.html). I am a graduating Computer Science Ph.D. candidate at Stony Brook University. My research topics are natural language processing (NLP), mobile computing, and machine learning systems. I have focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models. I have two fantastic advisors: Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). I'm on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
   <br>
   <span class="update">Updates</span>: I'm looking for postdoc openings in academia or research positions in the industry.
 history:
@@ -90,15 +90,15 @@ history:
         location: Stony Brook University
         position: Research Assistant
         extra: >
-            Projects: [Private Intelligent Assistant](http://pria.cs.stonybrook.edu/), [UIWear](http://sbuwear.cs.stonybrook.edu/).
+            Projects: [UIWear](http://sbuwear.cs.stonybrook.edu/), DeQA, DeFormer, NLP Energy.
       - duration: June, 2018 - Aug, 2018
         location: Microsoft Research Redmond
         position: Research Intern
-        extra: I worked with [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/) to build APIs for bot applications at scale.
+        extra: I worked with [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/) to study dynamic business web queries. (paper under review)
       - duration: July, 2017 - Sept, 2017
         location: Bell Labs Cambridge
-        position: Research Intern 
-        extra: Worked with [Nic Lane](http://niclane.org) on mobile deep learning projects.
+        position: Research Intern
+        extra: I worked with [Nic Lane](http://niclane.org) on mobile deep learning projects. (paper under review)
       - duration: Aug, 2015 - May, 2016
         location: Stony Brook University
         position: Teaching Assistant
@@ -155,7 +155,7 @@ notable:
     items:
       - name: MobiSys 2017 Student Travel Grant
       - name: Special CS Department Chair Fellowship, 2015
-  - name: Service
+  - name: Professional Services
     style: fas fa-hand-paper
     items:
       - name: NAACL 2021 PC
@@ -167,6 +167,8 @@ notable:
       - name: MobiSys 2018 PhD Forum [Program Committee](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)
       - name: IEEE Transactions on Mobile Computing (TMC) [Reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf), 2018
       - name: Secondary Reviewer for IMC 2017, MobiSys 2017-2020, MobiCom 2019-2021, EuroSys 2019, SIGCOMM 2019-2020
+      - name: "Worked with excellent master students: Aditya Prakash, Sruti Kumari, Mohit Marwari, Naga Naravamakula, Chenghao Yang, and Alexandru Eugen Irimiea (Oxford)"
+
 # misc:
 #   - name: Skills
 #     style: fas fa-code
