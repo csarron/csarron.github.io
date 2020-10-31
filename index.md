@@ -158,7 +158,7 @@ notable:
   - name: Professional Services
     style: fas fa-hand-paper
     items:
-      - name: NAACL 2021 PC
+      - name: NAACL 2021 Program Committee
       - name: Grad Buddies [Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html) Mentor
       - name: Eurosys 2021 Shadow TPC
       - name: Secondary Reviewer for EMNLP 2020
