@@ -160,7 +160,7 @@ notable:
     items:
       - name: NAACL 2021 Program Committee
       - name: Grad Buddies [Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html) Mentor
-      - name: Eurosys 2021 Shadow TPC
+      - name: Eurosys 2021 [Shadow TPC](https://2021.eurosys.org/shadow-program-committe.html#pc)
       - name: Secondary Reviewer for EMNLP 2020
       - name: Student Volunteer for ACL 2020
       - name: ACL 2020 [Program Committee](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf) (demo track)
