@@ -113,7 +113,7 @@ pub:
           paper: "Towards Accurate and Reliable Energy Measurement of NLP Models"
           conference: First Workshop on Simple and Efficient Natural Language Processing.
           resource: >
-            [pdf](/assets/sustainlp.pdf)
+            [pdf](/assets/sustainlp.pdf), [slides](/assets/sustainlp_slides.pptx), [code](https://github.com/csarron/sustainlp2020-energy), [bibtex](https://www.aclweb.org/anthology/2020.sustainlp-1.19.bib), [acl](https://www.aclweb.org/anthology/2020.sustainlp-1.19), [gslides](https://docs.google.com/presentation/d/1dW-zJux1f8a0WX69VMQtnLmYzyJPgDtYOnywl1rqQa8), [presentation](https://slideslive.com/38939441/towards-accurate-and-reliable-energy-measurement-of-nlp-models)
         - id: deformer
           type: ACL '20 (long paper)
           author: <strong>Qingqing Cao</strong>, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
