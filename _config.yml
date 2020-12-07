@@ -11,3 +11,4 @@ sass:
 plugins:
   - jekyll-minifier
   - jekyll-redirect-from
+  - jekyll-compose
