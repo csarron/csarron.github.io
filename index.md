@@ -34,6 +34,8 @@ contact:
       
 news-name: News
 news:
+  - date: 2020-12
+    info: Happy to join the inaugural cohort of [CDAC Rising Stars](https://cdac.uchicago.edu/rising-stars/)!
   - date: 2020-10
     info: Happy to share that I just passed the [thesis proposal](https://www.stonybrook.edu/commcms/sciedphd/program/thesis.php) defense! Feel free to check out the [slides](https://docs.google.com/presentation/d/13PJSnAYcsjfDZPyj6L_kCMPq34-1Qc_OWnTd4sZPhWc/).
   - date: 2020-09
