@@ -243,7 +243,7 @@ ul {
 }
 
 .col-md-3,
-.col-md-9 {
+.col-md-7 {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
@@ -252,16 +252,16 @@ ul {
 
 @media (min-width: 992px) {
     .col-md-3,
-    .col-md-9 {
+    .col-md-7 {
         float: left;
     }
 
-    .col-md-9 {
-        width: 75%;
+    .col-md-7 {
+        width: 70%;
     }
 
     .col-md-3 {
-        width: 25%;
+        width: 30%;
     }
 }
 

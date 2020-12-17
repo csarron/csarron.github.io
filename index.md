@@ -7,7 +7,7 @@ redirect_from:
 title: Qingqing Cao
 native-name: 曹庆庆
 avatar: /assets/avatar.jpg
-intro: 'PhD Student, Developer'
+intro: 'PhD Candidate'
 social:
   - style: social-link fas fa-2x fa-blog link-blog
     link: 'notes/'
