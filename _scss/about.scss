@@ -238,8 +238,27 @@ ul {
 }
 
 .row {
-    margin-right: -15px;
-    margin-left: -15px;
+    margin: auto;
+}
+
+@media (min-width: 992px) {
+    .row {
+        margin: auto;
+    }
+    .card-wrapper {
+        padding: 3px;
+    }
+}
+
+@media (min-width: 1536px) {
+    .row {
+        width: 80%;
+        margin: auto;
+    }
+    .card-wrapper {
+        // padding: 1px;
+        padding: 8px;
+    }
 }
 
 .col-md-3,
@@ -540,7 +559,8 @@ body {
 }
 
 .card-wrapper {
-    padding: 1px;
+    // padding: 1px;
+    padding: 2px;
 }
 
 @media (max-width: 992px) {
@@ -786,6 +806,12 @@ body {
     .contact-details {
         text-align: center;
     }
+}
+
+.contact-mod {
+    margin: auto;
+    text-align: center;
+    width: 320px;
 }
 
 .contact-details .detail {

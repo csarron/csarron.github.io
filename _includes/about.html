@@ -52,12 +52,14 @@
             <div class="social-links text-center">{% for item in page.social %}
                 <a href="{{ item.link }}" target="_blank"><i class="{{ item.style }}"></i></a>{% endfor %}
             </div>
+            <div class="contact-mod">
             <div class="contact-details clearfix">
                 {% for item in page.contact %}
                 <div class="detail">
                     <span class="icon"><i class="fas fa fa-{{ item.style }}"></i></span>
                     <span class="info">{{ item.info | markdownify  | remove: '<p>' | remove: '</p>' }}</span>
                 </div>{% endfor %}
+            </div>
             </div>
             <hr>
             <div class="contact-details clearfix">
