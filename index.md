@@ -140,7 +140,7 @@ pub:
           resource: >
             [pdf](/assets/uiwear.pdf), [slides](/assets/uiwear_slides.pptx), [code](https://github.com/SBUNetSys/UIWear), [bibtex](/assets/uiwear.bib)
         - id: uiwear_demo
-          type: MobiCom '17 Demo
+          type: MobiCom '17
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: the 23rd Annual International Conference on Mobile Computing and Networking.
