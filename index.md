@@ -35,9 +35,11 @@ contact:
 news-name: News
 news:
   - date: 2020-12
-    info: Happy to join the inaugural cohort of [CDAC Rising Stars](https://cdac.uchicago.edu/rising-stars/)!
+    info: Join the JSys [Student Editorial Board](https://escholarship.org/uc/jsys/studenteb)
+  - date: 2020-12
+    info: Excited to be a [CDAC Rising Star](https://cdac.uchicago.edu/rising-stars/)
   - date: 2020-10
-    info: Happy to share that I just passed the [thesis proposal](https://www.stonybrook.edu/commcms/sciedphd/program/thesis.php) defense! Feel free to check out the [slides](https://docs.google.com/presentation/d/13PJSnAYcsjfDZPyj6L_kCMPq34-1Qc_OWnTd4sZPhWc/).
+    info: Passed the [thesis proposal](https://www.stonybrook.edu/commcms/sciedphd/program/thesis.php) defense! Feel free to check out the [slides](https://docs.google.com/presentation/d/13PJSnAYcsjfDZPyj6L_kCMPq34-1Qc_OWnTd4sZPhWc/).
   - date: 2020-09
     info: One paper accepted to [SustaiNLP workshop](https://sites.google.com/view/sustainlp2020/home) @ EMNLP 2020
   - date: 2020-09
@@ -70,9 +72,9 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  [Talk version](/bio). I am a graduating Computer Science Ph.D. candidate at Stony Brook University. My research topics are natural language processing (NLP), mobile computing, and machine learning systems. I have focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models. I have two fantastic advisors: Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). I'm on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
+  Qingqing Cao is a graduating Computer Science Ph.D. candidate at Stony Brook University. His research interests include natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models. He has two fantastic advisors: [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His website is https://awk.ai. He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
   <br>
-  <span class="update">Updates</span>: I'm looking for **postdoc** openings in academia or **research** positions in the industry.
+  <span class="update">Updates</span>: Looking for **postdoc** openings in academia or **research** positions in the industry.
 history:
   - name: Education
     style: fas fa-university
@@ -160,6 +162,7 @@ notable:
   - name: Professional Services
     style: fas fa-hand-paper
     items:
+      - name: JSys [Student Editorial Board Member](https://escholarship.org/uc/jsys/studenteb)
       - name: NAACL 2021 Program Committee
       - name: Grad Buddies [Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html) Mentor
       - name: Eurosys 2021 [Shadow TPC](https://2021.eurosys.org/shadow-program-committe.html#pc)
