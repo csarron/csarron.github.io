@@ -154,11 +154,12 @@ pub:
           resource: >
             [pdf](/assets/mobirnn.pdf), [slides](/assets/mobirnn_slides.pptx), [code](https://github.com/SBUNetSys/MobiRNN-EMDL17), [bibtex](/assets/mobirnn.bib)
 notable:
-  - name: Awards
+  - name: Honors & Awards
     style: fas fa-trophy
     items:
-      - name: MobiSys 2017 Student Travel Grant
-      - name: Special CS Department Chair Fellowship, 2015
+      - name: CDAC Rising Stars in Data Science, University of Chicago, 2021
+      - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
+      - name: Special CS Department Chair Fellowship, Stony Brook University, 2015
   - name: Professional Services
     style: fas fa-hand-paper
     items:
