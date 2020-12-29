@@ -157,24 +157,16 @@ notable:
   - name: Honors & Awards
     style: fas fa-trophy
     items:
-      - name: CDAC Rising Stars in Data Science, University of Chicago, 2021
+      - name: CDAC Rising Stars in Data Science, University of Chicago, 2020
       - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
       - name: Special CS Department Chair Fellowship, Stony Brook University, 2015
   - name: Services
     style: fas fa-hand-paper
     items:
-      - name: JSys [Student Editorial Board Member](https://escholarship.org/uc/jsys/studenteb)
-      - name: NAACL 2021 Program Committee
-      - name: Grad Buddies [Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html) Mentor
-      - name: Eurosys 2021 [Shadow TPC](https://2021.eurosys.org/shadow-program-committe.html#pc)
-      - name: Secondary [Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf) for EMNLP 2020
-      - name: Student Volunteer for ACL 2020
-      - name: ACL 2020 [Program Committee](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf) (demo track)
-      - name: MobiSys 2018 PhD Forum [Program Committee](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)
-      - name: IEEE Transactions on Mobile Computing (TMC) [Reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf), 2018
-      - name: Student Volunteer for MobiSys 2017
-      - name: Secondary Reviewer for IMC 2017, MobiSys 2017-2020, MobiCom 2019-2021, EuroSys 2019, SIGCOMM 2019-2020
-      - name: "Worked with excellent master students: Aditya Prakash, Sruti Kumari, Mohit Marwari, Naga Naravamakula, Chenghao Yang, and Alexandru Eugen Irimiea (Oxford)"
+      - name: "**Program committee**: NAACL 2021, Eurosys 2021 ([shadow](https://2021.eurosys.org/shadow-program-committe.html#pc)), ACL 2020 ([demo](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf)), MobiSys 2018 ([PhD forum](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)), IEEE Transactions on Mobile Computing ([reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf)), JSys Student Editorial Board [Member](https://escholarship.org/uc/jsys/studenteb)."
+      - name: "**Secondary reviewer**: [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf), IMC 2017, EuroSys 2019, MobiSys 2017~2020, MobiCom 2019~2021, SIGCOMM 2019~2020"
+      - name: "**Volunteering Service**: Student volunteer for MobiSys 2017 and ACL 2020."
+      - name: "**Mentor service**: Stony Brook CS [Grad Buddies Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html); MS students: Aditya Prakash, Sruti Kumari, Mohit Marwari, Naga Naravamakula, Chenghao Yang, and Alexandru Eugen Irimiea (Oxford)"
 
 # misc:
 #   - name: Skills
