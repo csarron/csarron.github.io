@@ -98,11 +98,11 @@ history:
       - duration: June, 2018 - Aug, 2018
         location: Microsoft Research Redmond
         position: Research Intern
-        extra: I worked with [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/) to study dynamic business web queries. (paper under review)
+        extra: I worked with [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/) to study [dynamic business web queries](https://arxiv.org/abs/2012.05818).
       - duration: July, 2017 - Sept, 2017
         location: Bell Labs Cambridge
         position: Research Intern
-        extra: I worked with [Nic Lane](http://niclane.org) on mobile deep learning projects. (paper under review)
+        extra: I worked with [Nic Lane](http://niclane.org) on mobile deep learning projects.
       - duration: Aug, 2015 - May, 2016
         location: Stony Brook University
         position: Teaching Assistant
@@ -160,7 +160,7 @@ notable:
       - name: CDAC Rising Stars in Data Science, University of Chicago, 2021
       - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
       - name: Special CS Department Chair Fellowship, Stony Brook University, 2015
-  - name: Professional Services
+  - name: Services
     style: fas fa-hand-paper
     items:
       - name: JSys [Student Editorial Board Member](https://escholarship.org/uc/jsys/studenteb)
