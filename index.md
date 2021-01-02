@@ -37,7 +37,7 @@ news:
   - date: 2020-12
     info: Join the JSys [Student Editorial Board](https://escholarship.org/uc/jsys/studenteb)
   - date: 2020-12
-    info: Excited to be a [CDAC Rising Star](https://cdac.uchicago.edu/rising-stars/#rising-stars-profiles)
+    info: Excited to be a [CDAC Rising Star](https://cdac.uchicago.edu/rising-stars/)
   - date: 2020-10
     info: Passed the [thesis proposal](https://www.stonybrook.edu/commcms/sciedphd/program/thesis.php) defense! Feel free to check out the [slides](https://docs.google.com/presentation/d/13PJSnAYcsjfDZPyj6L_kCMPq34-1Qc_OWnTd4sZPhWc/).
   - date: 2020-09
@@ -157,7 +157,7 @@ notable:
   - name: Honors & Awards
     style: fas fa-trophy
     items:
-      - name: CDAC Rising Stars in Data Science, University of Chicago, 2021
+      - name: CDAC [Rising Stars in Data Science](https://cdac.uchicago.edu/rising-stars/#rising-stars-profiles), University of Chicago, 2021
       - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
       - name: Special CS Department Chair Fellowship, Stony Brook University, 2015
   - name: Services
