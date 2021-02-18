@@ -74,7 +74,9 @@ bio:
  content: >
   Qingqing Cao is a graduating Computer Science Ph.D. candidate at Stony Brook University. His research interests include natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models. He has two fantastic advisors: [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His website is https://awk.ai. He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
   <br>
-  <span class="update">Updates</span>: Looking for **postdoc** openings in academia or **research** positions in the industry.
+  <span class="update">Updates</span>: Looking for **postdoc** openings in academia or **research** positions in the industry.  <br>
+  [CV](/cv.pdf), [Research Statement](/rs.pdf)
+
 history:
   - name: Education
     style: fas fa-university
