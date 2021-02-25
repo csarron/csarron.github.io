@@ -34,6 +34,8 @@ contact:
       
 news-name: News
 news:
+  - date: 2021-01
+    info: Attended [UChicago Rising Stars in Data Science Workshop](https://cdac.uchicago.edu/rising-stars/), check out my [5-min lightning talk](https://www.youtube.com/watch?v=45PgiWIBo3s)
   - date: 2020-12
     info: Join the JSys [Student Editorial Board](https://escholarship.org/uc/jsys/studenteb)
   - date: 2020-12
@@ -165,7 +167,7 @@ notable:
   - name: Services
     style: fas fa-hand-paper
     items:
-      - name: "**Program committee**: NAACL 2021, Eurosys 2021 ([shadow](https://2021.eurosys.org/shadow-program-committe.html#pc)), ACL 2020 ([demo](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf)), MobiSys 2018 ([PhD forum](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)), IEEE Transactions on Mobile Computing ([reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf)), JSys Student Editorial Board [Member](https://escholarship.org/uc/jsys/studenteb)."
+      - name: "**Program committee**: ACL 2021, NAACL 2021, Eurosys 2021 ([shadow](https://2021.eurosys.org/shadow-program-committe.html#pc)), ACL 2020 ([demo](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf)), MobiSys 2018 ([PhD forum](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)), IEEE Transactions on Mobile Computing ([reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf)), JSys Student Editorial Board [Member](https://escholarship.org/uc/jsys/studenteb)."
       - name: "**Secondary reviewer**: [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf), IMC 2017, EuroSys 2019, MobiSys 2017~2020, MobiCom 2019~2021, SIGCOMM 2019~2020"
       - name: "**Volunteering Service**: Student volunteer for MobiSys 2017 and ACL 2020."
       - name: "**Mentor service**: Stony Brook CS [Grad Buddies Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html); MS students: Aditya Prakash, Sruti Kumari, Mohit Marwari, Naga Naravamakula, Chenghao Yang, and Alexandru Eugen Irimiea (Oxford)"
