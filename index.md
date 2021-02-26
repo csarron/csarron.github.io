@@ -35,7 +35,7 @@ contact:
 news-name: News
 news:
   - date: 2021-02
-    info: Present my research ([poster](https://www3.cs.stonybrook.edu/~grd/posters/qingqingcao_grd_cam_ready.pdf)) on Stony Brook CS [Graduate Research Day](https://www3.cs.stonybrook.edu/~grd/program.html). 
+    info: Present my research ([poster](/assets/qingqingcao_grd_cam_ready.pdf)) on Stony Brook CS [Graduate Research Day](https://www3.cs.stonybrook.edu/~grd/program.html). 
   - date: 2021-01
     info: Attended [UChicago Rising Stars in Data Science Workshop](https://cdac.uchicago.edu/rising-stars/), check out my [5-min lightning talk](https://www.youtube.com/watch?v=45PgiWIBo3s)
   - date: 2020-12
