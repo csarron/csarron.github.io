@@ -34,6 +34,8 @@ contact:
       
 news-name: News
 news:
+  - date: 2021-03
+    info: Thrilled to receive the Catacosinos Fellowship! 
   - date: 2021-02
     info: Present my research ([poster](/assets/qingqingcao_grd_cam_ready.pdf)) on Stony Brook CS [Graduate Research Day](https://www3.cs.stonybrook.edu/~grd/program.html). 
   - date: 2021-01
@@ -163,6 +165,7 @@ notable:
   - name: Honors & Awards
     style: fas fa-trophy
     items:
+      - name: Catacosinos Fellowship for Excellence in Computer Science (2 out of 232 PhD students), 2021
       - name: CDAC [Rising Stars in Data Science](https://cdac.uchicago.edu/rising-stars/#rising-stars-profiles), University of Chicago, 2021
       - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
       - name: Special CS Department Chair Fellowship, Stony Brook University, 2015
