@@ -165,7 +165,7 @@ notable:
   - name: Honors & Awards
     style: fas fa-trophy
     items:
-      - name: Catacosinos Fellowship (2 out of 232 PhD students), Stony Brook University, 2021
+      - name: "[Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/Funding-Doctoral-Research-Catacosinos-Fellowship-Awardees-2021) (2 out of 232 PhD students), Stony Brook University, 2021"
       - name: CDAC [Rising Stars in Data Science](https://cdac.uchicago.edu/rising-stars/#rising-stars-profiles), University of Chicago, 2021
       - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
       - name: Special CS Department Chair Fellowship, Stony Brook University, 2015
