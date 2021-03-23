@@ -35,7 +35,7 @@ contact:
 news-name: News
 news:
   - date: 2021-03
-    info: Thrilled to receive the Catacosinos Fellowship! 
+    info: Thrilled to receive the [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/Funding-Doctoral-Research-Catacosinos-Fellowship-Awardees-2021)! 
   - date: 2021-02
     info: Present my research ([poster](/assets/qingqingcao_grd_cam_ready.pdf)) on Stony Brook CS [Graduate Research Day](https://www3.cs.stonybrook.edu/~grd/program.html). 
   - date: 2021-01
