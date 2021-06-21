@@ -111,7 +111,7 @@ history:
       - duration: July, 2017 - Sept, 2017
         location: Bell Labs Cambridge
         position: Research Intern
-        extra: I worked with [Nic Lane](http://niclane.org) on mobile deep learning projects.
+        extra: I worked with [Nic Lane](http://niclane.org) on the [mobile deep learning accelerator](/assets/ncs_emdl21.pdf) project.
       # - duration: Aug, 2015 - May, 2016
       #   location: Stony Brook University
       #   position: Teaching Assistant
@@ -121,50 +121,59 @@ pub:
     style: fab fa-leanpub
     items:
         - id: irene
-          type: ACL '21 (long paper)
+          type: ACL '21 (long oral paper)
           author: <strong>Qingqing Cao</strong>, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "IrEne: Interpretable Energy Prediction for Transformers"
-          conference: the 59th annual meeting of the Association for Computational Linguistics.
+          conference: The 59th Annual Meeting of the Association for Computational Linguistics.
+          resource: >
+            [pdf](https://arxiv.org/abs/2106.01199), [code](https://github.com/StonyBrookNLP/IrEne),
+        - id: ncs
+          type: EMDL@MobiSys '21
+          author: <strong>Qingqing Cao</strong>, Alexandru Eugen Irimiea, Mohamed Abdelfattah, Aruna Balasubramanian and Nicholas D. Lane.
+          paper: "Are Mobile DNN Accelerators Accelerating DNNs?"
+          conference: The 5th International Workshop on Embedded and Mobile Deep Learning.
+          resource: >
+            [pdf](/assets/ncs_emdl21.pdf), [slides](https://docs.google.com/presentation/d/1Y2k1LAxjEhBALMk9_4rBH_IvRDMOtGevzFnqD9nQeDU)
         - id: sustainlp
           type: SustaiNLP@EMNLP '20
           author: <strong>Qingqing Cao</strong>, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "Towards Accurate and Reliable Energy Measurement of NLP Models"
-          conference: First Workshop on Simple and Efficient Natural Language Processing.
+          conference: The First Workshop on Simple and Efficient Natural Language Processing.
           resource: >
             [pdf](/assets/sustainlp.pdf), [slides](/assets/sustainlp_slides.pptx), [code](https://github.com/csarron/sustainlp2020-energy), [bibtex](https://www.aclweb.org/anthology/2020.sustainlp-1.19.bib), [acl](https://www.aclweb.org/anthology/2020.sustainlp-1.19), [gslides](https://docs.google.com/presentation/d/1dW-zJux1f8a0WX69VMQtnLmYzyJPgDtYOnywl1rqQa8), [presentation](https://slideslive.com/38939441/towards-accurate-and-reliable-energy-measurement-of-nlp-models)
         - id: deformer
           type: ACL '20 (long paper)
           author: <strong>Qingqing Cao</strong>, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering"
-          conference: the 58th annual meeting of the Association for Computational Linguistics.
+          conference: The 58th Annual Meeting of the Association for Computational Linguistics.
           resource: >
             [pdf](/assets/deformer.pdf), [slides](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [bibtex](https://www.aclweb.org/anthology/2020.acl-main.411.bib),  [acl](https://www.aclweb.org/anthology/2020.acl-main.411), [gslides](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ), [presentation](https://slideslive.com/38929429/deformer-decomposing-pretrained-transformers-for-faster-question-answering)
         - id: deqa
           type: MobiSys '19
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
           paper: "DeQA: On-Device Question Answering"
-          conference: the 17th ACM International Conference on Mobile Systems, Applications, and Services.
+          conference: The 17th ACM International Conference on Mobile Systems, Applications, and Services.
           resource: >
             [pdf](/assets/deqa.pdf), [slides](/assets/deqa_slides.pptx), [code](https://github.com/SBUNetSys/DeQA), [bibtex](/assets/deqa.bib)
         - id: uiwear
           type: MobiCom '17
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "UIWear: Easily Adapting User Interfaces for Wearable Devices"
-          conference: the 23rd Annual International Conference on Mobile Computing and Networking.
+          conference: The 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
             [pdf](/assets/uiwear.pdf), [slides](/assets/uiwear_slides.pptx), [code](https://github.com/SBUNetSys/UIWear), [bibtex](/assets/uiwear.bib)
         - id: uiwear_demo
           type: MobiCom '17
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
-          conference: the 23rd Annual International Conference on Mobile Computing and Networking.
+          conference: The 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
             [pdf](/assets/uiwear_demo.pdf), [poster](/assets/uiwear_poster.pdf), [video](https://youtu.be/YEQ3HNeQnts), [bibtex](/assets/uiwear_demo.bib)
         - id: mobirnn
           type: EMDL@MobiSys '17
           author: <strong>Qingqing Cao</strong>, Niranjan Balasubramanian, Aruna Balasubramanian.
           paper: "MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU"
-          conference: 1st International Workshop on Embedded and Mobile Deep Learning.
+          conference: The 1st International Workshop on Embedded and Mobile Deep Learning.
           resource: >
             [pdf](/assets/mobirnn.pdf), [slides](/assets/mobirnn_slides.pptx), [code](https://github.com/SBUNetSys/MobiRNN-EMDL17), [bibtex](/assets/mobirnn.bib)
 notable:
