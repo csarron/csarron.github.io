@@ -34,6 +34,10 @@ contact:
       
 news-name: News
 news:
+  - date: 2020-06
+    info: Our energy estimation paper (IrEne) has been chosen as an oral presentation at ACL 2021!
+  - date: 2020-06
+    info: Mobile DNN accelerator paper accepted to the EMDL 2021 workshop @ MobiSys!
   - date: 2020-05
     info: One long paper accepted to ACL 2021
   - date: 2021-03
@@ -80,7 +84,7 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  Qingqing Cao is a graduating Computer Science Ph.D. candidate at Stony Brook University. His research interests include natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models. He has two fantastic advisors: Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His website is https://awk.ai. He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
+  Qingqing Cao is a graduating Computer Science Ph.D. candidate at Stony Brook University. His research interests include natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models (ACL 2021). He has two fantastic advisors: Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His website is https://awk.ai. He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
   <br>
   <span class="update">Updates</span>: I will join [H2Lab](https://h2lab.cs.washington.edu/) at UW as a postdoc this fall!  <br>
 
@@ -126,7 +130,7 @@ pub:
           paper: "IrEne: Interpretable Energy Prediction for Transformers"
           conference: The 59th Annual Meeting of the Association for Computational Linguistics.
           resource: >
-            [pdf](https://arxiv.org/abs/2106.01199), [code](https://github.com/StonyBrookNLP/IrEne),
+            [pdf](https://arxiv.org/abs/2106.01199), [code](https://github.com/StonyBrookNLP/IrEne)
         - id: ncs
           type: EMDL@MobiSys '21
           author: <strong>Qingqing Cao</strong>, Alexandru Eugen Irimiea, Mohamed Abdelfattah, Aruna Balasubramanian and Nicholas D. Lane.
