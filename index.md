@@ -137,7 +137,7 @@ pub:
           paper: "Are Mobile DNN Accelerators Accelerating DNNs?"
           conference: The 5th International Workshop on Embedded and Mobile Deep Learning.
           resource: >
-            [pdf](/assets/ncs_emdl21.pdf), [slides](https://docs.google.com/presentation/d/1Y2k1LAxjEhBALMk9_4rBH_IvRDMOtGevzFnqD9nQeDU)
+            [pdf](/assets/ncs_emdl21.pdf), [slides](/assets/ncs_slides.pptx), [code](https://github.com/csarron/MobileAccelerator), [bibtex](/assets/ncs.bib), [gslides](https://docs.google.com/presentation/d/1Y2k1LAxjEhBALMk9_4rBH_IvRDMOtGevzFnqD9nQeDU), [presentation](https://youtu.be/nJSh3TFha6M)
         - id: sustainlp
           type: SustaiNLP@EMNLP '20
           author: <strong>Qingqing Cao</strong>, Aruna Balasubramanian and Niranjan Balasubramanian.
