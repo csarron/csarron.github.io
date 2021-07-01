@@ -27,7 +27,7 @@ contact:
       [qicao@cs.stonybrook.edu](mailto:qicao@cs.stonybrook.edu)
   - style: briefcase
     info: |
-      [CV](/cv.pdf)
+      [CV](/cv.pdf) (July 2021)
   - style: weixin
     info: |
       id: [awk-ai](/wx.jpg)
