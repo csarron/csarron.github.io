@@ -130,7 +130,7 @@ pub:
           paper: "IrEne: Interpretable Energy Prediction for Transformers"
           conference: The 59th Annual Meeting of the Association for Computational Linguistics.
           resource: >
-            [pdf](https://arxiv.org/abs/2106.01199), [code](https://github.com/StonyBrookNLP/IrEne)
+            [pdf](https://arxiv.org/abs/2106.01199), [code](https://github.com/StonyBrookNLP/IrEne), [bibtex](https://aclanthology.org/2021.acl-long.167.bib),  [acl](https://aclanthology.org/2021.acl-long.167), [gslides](https://docs.google.com/presentation/d/1f1zULlp9lJXaznU5yxZnfTnsUyNPbzo0N2-SstzmAng/)
         - id: ncs
           type: EMDL@MobiSys '21
           author: <strong>Qingqing Cao</strong>, Alexandru Eugen Irimiea, Mohamed Abdelfattah, Aruna Balasubramanian and Nicholas D. Lane.
