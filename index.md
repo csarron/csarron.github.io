@@ -7,7 +7,7 @@ redirect_from:
 title: Qingqing Cao
 native-name: 曹庆庆
 avatar: /assets/avatar.jpg
-intro: 'PhD Candidate'
+intro: 'Postdoc at UW'
 social:
   - style: social-link fas fa-2x fa-blog link-blog
     link: 'notes/'
@@ -21,10 +21,10 @@ social:
     link: https://medium.com/@awk.ai
 contact:
   - style: location-arrow
-    info: 'Stony Brook, New York'
+    info: 'Seattle, WA'
   - style: envelope
     info: |
-      [qicao@cs.stonybrook.edu](mailto:qicao@cs.stonybrook.edu)
+      [qicao@uw.edu](mailto:qicao@uw.edu)
   - style: briefcase
     info: |
       [CV](/cv.pdf) (July 2021)
@@ -34,11 +34,15 @@ contact:
       
 news-name: News
 news:
-  - date: 2020-06
+  - date: 2021-10
+    info: I started my next journey as a postdoc at UW
+  - date: 2021-09
+    info: I successfully defended!
+  - date: 2021-06
     info: Our energy estimation paper (IrEne) has been chosen as an oral presentation at ACL 2021!
-  - date: 2020-06
+  - date: 2021-06
     info: Mobile DNN accelerator paper accepted to the EMDL 2021 workshop @ MobiSys!
-  - date: 2020-05
+  - date: 2021-05
     info: One long paper accepted to ACL 2021
   - date: 2021-03
     info: Thrilled to receive the [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/Funding-Doctoral-Research-Catacosinos-Fellowship-Awardees-2021)! 
@@ -84,17 +88,22 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  Qingqing Cao is a graduating Computer Science Ph.D. candidate at Stony Brook University. His research interests include natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models (ACL 2021). He has two fantastic advisors: Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His website is https://awk.ai. He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
+  Qingqing Cao is a postdoc in the Paul G. Allen School of Computer Science and Engineering at University of Washington. His research interests include natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models (ACL 2021). He obtained a computer science Ph.D. at Stony Brook University where he worked with Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). He is a recipient of the Catacosinos Fellowship at Stony Brook University and a Rising Star in Data Science at the University of Chicago. His website is https://awk.ai. 
+  He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
   <br>
-  <span class="update">Updates</span>: I will join [H2Lab](https://h2lab.cs.washington.edu/) at UW as a postdoc this fall!  <br>
+  <span class="update">Updates</span>: I joined [H2Lab](https://h2lab.cs.washington.edu/) at UW as a postdoc!  <br>
 
 history:
   - name: Education
     style: fas fa-university
     items:
-      - duration: Aug 2015 - present
+      - duration: Oct 2021 - present
+        location: University of Washington
+        position: Postdoctoral Scholar
+        extra: null
+      - duration: Aug 2015 - Sep 2021
         location: Stony Brook University
-        position: Ph.D. candidate in Computer Science
+        position: Ph.D. in Computer Science
         extra: null
       - duration: Sept 2011 - Jun 2015
         location: Wuhan University
@@ -103,7 +112,7 @@ history:
   - name: Experience
     style: fas fa-building
     items:
-      - duration: June, 2016 - Present
+      - duration: June, 2016 - Sep 2021
         location: Stony Brook University
         position: Research Assistant
         extra: >
