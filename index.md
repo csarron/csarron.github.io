@@ -97,10 +97,6 @@ history:
   - name: Education
     style: fas fa-university
     items:
-      - duration: Oct 2021 - present
-        location: University of Washington
-        position: Postdoctoral Scholar
-        extra: null
       - duration: Aug 2015 - Sep 2021
         location: Stony Brook University
         position: Ph.D. in Computer Science
@@ -112,6 +108,10 @@ history:
   - name: Experience
     style: fas fa-building
     items:
+      - duration: Oct 2021 - present
+        location: University of Washington
+        position: Postdoctoral Scholar
+        extra: null
       - duration: June, 2016 - Sep 2021
         location: Stony Brook University
         position: Research Assistant
