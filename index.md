@@ -24,7 +24,7 @@ contact:
     info: 'Seattle, WA'
   - style: envelope
     info: |
-      [qicao@uw.edu](mailto:qicao@uw.edu)
+      [qicao@cs.washington.edu](mailto:qicao@cs.washington.edu)
   - style: briefcase
     info: |
       [CV](/cv.pdf) (July 2021)
