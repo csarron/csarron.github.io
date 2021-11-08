@@ -27,7 +27,7 @@ contact:
       [qicao@cs.washington.edu](mailto:qicao@cs.washington.edu)
   - style: briefcase
     info: |
-      [CV](/cv.pdf) (July 2021)
+      [CV](/cv.pdf) (Oct 2021)
   - style: weixin
     info: |
       id: [awk-ai](/wx.jpg)
