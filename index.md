@@ -133,6 +133,13 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
+        - id: irene_viz
+          type: EMNLP '21 (demo)
+          author: Yash Kumar Lal, Reetu Singh, Harsh Trivedi, <strong>Qingqing Cao</strong>, Aruna Balasubramanian, Niranjan Balasubramanian.
+          paper: "IrEne-viz: Visualizing Energy Consumption of Transformer Models"
+          conference: The 2021 Conference on Empirical Methods in Natural Language Processing.
+          resource: >
+            [pdf](/assets/irene-viz.pdf), [demo url](http://stonybrooknlp.github.io/irene/demo/), [bibtex](https://aclanthology.org/2021.emnlp-demo.29.bib),  [acl](https://aclanthology.org/2021.emnlp-demo.29/)
         - id: irene
           type: ACL '21 (long oral paper)
           author: <strong>Qingqing Cao</strong>, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
