@@ -117,16 +117,15 @@ history:
       - duration: June, 2016 - Sep 2021
         location: Stony Brook University
         position: Research Assistant
-        extra: >
-            Projects: [UIWear](http://sbuwear.cs.stonybrook.edu/), DeQA, DeFormer, NLP Energy.
+        extra: null
       - duration: June, 2018 - Aug, 2018
         location: Microsoft Research Redmond
         position: Research Intern
-        extra: I worked with [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/) to study [dynamic business web queries](https://arxiv.org/abs/2012.05818).
+        extra: "Mentor: [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/)"
       - duration: July, 2017 - Sept, 2017
         location: Bell Labs Cambridge
         position: Research Intern
-        extra: I worked with [Nic Lane](http://niclane.org) on the [mobile deep learning accelerator](/assets/ncs_emdl21.pdf) project.
+        extra: "Mentor: [Nic Lane](http://niclane.org)"
       # - duration: Aug, 2015 - May, 2016
       #   location: Stony Brook University
       #   position: Teaching Assistant
