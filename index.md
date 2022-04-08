@@ -90,10 +90,10 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  Qingqing Cao is a postdoc in the Paul G. Allen School of Computer Science and Engineering at University of Washington. His research interests include natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models (ACL 2021). He obtained a computer science Ph.D. at Stony Brook University where he worked with Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). He was a recipient of the Catacosinos Fellowship at Stony Brook University and a Rising Star in Data Science at the University of Chicago. His website is https://awk.ai. 
+  Qingqing Cao is a postdoc in the Paul G. Allen School of Computer Science and Engineering at University of Washington. He obtained a computer science Ph.D. at Stony Brook University where he worked with Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His research interests include efficient natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models (ACL 2021). He was a recipient of the Catacosinos Fellowship at Stony Brook University and a Rising Star in Data Science at the University of Chicago. His website is https://awk.ai. 
   He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
   <br>
-  <span class="update">Updates</span>: I joined [H2Lab](https://h2lab.cs.washington.edu/) at UW as a postdoc!  <br>
+#   <span class="update">Updates</span>: I joined [H2Lab](https://h2lab.cs.washington.edu/) at UW as a postdoc!  <br>
 
 history:
   - name: Education
