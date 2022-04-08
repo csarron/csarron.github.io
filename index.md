@@ -34,6 +34,8 @@ contact:
       
 news-name: News
 news:
+  - date: 2022-04
+    info: MobiVQA paper accepted to IMWUT/UbiComp 2022
   - date: 2021-10
     info: I started my next journey as a postdoc at UW
   - date: 2021-09
@@ -69,7 +71,7 @@ news:
   - date: 2019-06
     info: Attending MobiSys 2019
   - date: 2019-03
-    info: DeQA accepted to MobiSys'19
+    info: DeQA accepted to MobiSys 2019
   - date: 2018-05
     info: Starting Intership at Microsoft Research Redmond
   - date: 2018-03
@@ -133,64 +135,71 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
+        - id: mobivqa
+          type: IMWUT/UbiComp 2022
+          author: <strong>Qingqing Cao</strong>, Prerna Khanna, Aruna Balasubramanian and Nicholas D. Lane.
+          paper: "MobiVQA: Efficient On-Device Visual Question Answering"
+          conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
+          resource: >
+            [paper will be out soon](/)
         - id: irene_viz
-          type: EMNLP '21 (demo)
+          type: EMNLP 2021 (demo)
           author: Yash Kumar Lal, Reetu Singh, Harsh Trivedi, <strong>Qingqing Cao</strong>, Aruna Balasubramanian, Niranjan Balasubramanian.
           paper: "IrEne-viz: Visualizing Energy Consumption of Transformer Models"
           conference: The 2021 Conference on Empirical Methods in Natural Language Processing.
           resource: >
             [pdf](/assets/irene-viz.pdf), [demo url](http://stonybrooknlp.github.io/irene/demo/), [bibtex](https://aclanthology.org/2021.emnlp-demo.29.bib),  [acl](https://aclanthology.org/2021.emnlp-demo.29/)
         - id: irene
-          type: ACL '21 (long oral paper)
+          type: ACL 2021 (long paper)
           author: <strong>Qingqing Cao</strong>, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "IrEne: Interpretable Energy Prediction for Transformers"
           conference: The 59th Annual Meeting of the Association for Computational Linguistics.
           resource: >
             [pdf](/assets/irene.pdf), [code](https://github.com/StonyBrookNLP/IrEne), [bibtex](https://aclanthology.org/2021.acl-long.167.bib),  [acl](https://aclanthology.org/2021.acl-long.167), [gslides](https://docs.google.com/presentation/d/1f1zULlp9lJXaznU5yxZnfTnsUyNPbzo0N2-SstzmAng/)
         - id: ncs
-          type: EMDL@MobiSys '21
+          type: EMDL@MobiSys 2021
           author: <strong>Qingqing Cao</strong>, Alexandru Eugen Irimiea, Mohamed Abdelfattah, Aruna Balasubramanian and Nicholas D. Lane.
           paper: "Are Mobile DNN Accelerators Accelerating DNNs?"
           conference: The 5th International Workshop on Embedded and Mobile Deep Learning.
           resource: >
             [pdf](/assets/ncs_emdl21.pdf), [slides](/assets/ncs_slides.pptx), [code](https://github.com/csarron/MobileAccelerator), [bibtex](/assets/ncs.bib), [gslides](https://docs.google.com/presentation/d/1Y2k1LAxjEhBALMk9_4rBH_IvRDMOtGevzFnqD9nQeDU), [presentation](https://youtu.be/nJSh3TFha6M)
         - id: sustainlp
-          type: SustaiNLP@EMNLP '20
+          type: SustaiNLP@EMNLP 2020
           author: <strong>Qingqing Cao</strong>, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "Towards Accurate and Reliable Energy Measurement of NLP Models"
           conference: The First Workshop on Simple and Efficient Natural Language Processing.
           resource: >
             [pdf](/assets/sustainlp.pdf), [slides](/assets/sustainlp_slides.pptx), [code](https://github.com/csarron/sustainlp2020-energy), [bibtex](https://www.aclweb.org/anthology/2020.sustainlp-1.19.bib), [acl](https://www.aclweb.org/anthology/2020.sustainlp-1.19), [gslides](https://docs.google.com/presentation/d/1dW-zJux1f8a0WX69VMQtnLmYzyJPgDtYOnywl1rqQa8), [presentation](https://slideslive.com/38939441/towards-accurate-and-reliable-energy-measurement-of-nlp-models)
         - id: deformer
-          type: ACL '20 (long paper)
+          type: ACL 2020 (long paper)
           author: <strong>Qingqing Cao</strong>, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian.
           paper: "DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering"
           conference: The 58th Annual Meeting of the Association for Computational Linguistics.
           resource: >
             [pdf](/assets/deformer.pdf), [slides](/assets/deformer_slides.pptx), [code](https://github.com/StonyBrookNLP/deformer), [bibtex](https://www.aclweb.org/anthology/2020.acl-main.411.bib),  [acl](https://www.aclweb.org/anthology/2020.acl-main.411), [gslides](https://docs.google.com/presentation/d/1TTjr8jSBfR4vQr_DiaXfnCEhwVq_OWPS6HPpn1aColQ), [presentation](https://slideslive.com/38929429/deformer-decomposing-pretrained-transformers-for-faster-question-answering)
         - id: deqa
-          type: MobiSys '19
+          type: MobiSys 2019
           author: <strong>Qingqing Cao</strong>, Noah Weber, Niranjan Balasubramanian, and Aruna Balasubramanian.
           paper: "DeQA: On-Device Question Answering"
           conference: The 17th ACM International Conference on Mobile Systems, Applications, and Services.
           resource: >
             [pdf](/assets/deqa.pdf), [slides](/assets/deqa_slides.pptx), [code](https://github.com/SBUNetSys/DeQA), [bibtex](/assets/deqa.bib)
         - id: uiwear
-          type: MobiCom '17
+          type: MobiCom 2017
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: The 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
             [pdf](/assets/uiwear.pdf), [slides](/assets/uiwear_slides.pptx), [code](https://github.com/SBUNetSys/UIWear), [bibtex](/assets/uiwear.bib)
         - id: uiwear_demo
-          type: MobiCom '17
+          type: MobiCom 2017
           author: Jian Xu (co-primary), <strong>Qingqing Cao (co-primary)</strong>, Aditya Prakash, Aruna Balasubramanian, and Don Porter.
           paper: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
           conference: The 23rd Annual International Conference on Mobile Computing and Networking.
           resource: >
             [pdf](/assets/uiwear_demo.pdf), [poster](/assets/uiwear_poster.pdf), [video](https://youtu.be/YEQ3HNeQnts), [bibtex](/assets/uiwear_demo.bib)
         - id: mobirnn
-          type: EMDL@MobiSys '17
+          type: EMDL@MobiSys 2017
           author: <strong>Qingqing Cao</strong>, Niranjan Balasubramanian, Aruna Balasubramanian.
           paper: "MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU"
           conference: The 1st International Workshop on Embedded and Mobile Deep Learning.
