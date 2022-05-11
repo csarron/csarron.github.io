@@ -17,11 +17,14 @@ social:
     link: 'https://github.com/csarron'
   - style: social-link fab fa-2x fa-twitter link-twitter
     link: https://twitter.com/sysnlp
-  - style: social-link fab fa-2x fa-medium link-medium
-    link: https://medium.com/@awk.ai
+  # - style: social-link fab fa-2x fa-medium link-medium
+  #   link: https://medium.com/@awk.ai
 contact:
-  - style: location-arrow
-    info: 'Seattle, WA'
+  - style: graduation-cap
+    info: |
+      [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ),  [Semantic Scholar](https://www.semanticscholar.org/author/31961604)
+  # - style: location-arrow
+  #   info: 'Seattle, WA'
   - style: envelope
     info: |
       [qicao@cs.washington.edu](mailto:qicao@cs.washington.edu)
@@ -31,7 +34,7 @@ contact:
   - style: weixin
     info: |
       id: [awk-ai](/wx.jpg)
-      
+
 news-name: News
 news:
   - date: 2022-04
@@ -90,10 +93,17 @@ bio:
  name: Bio
  style: fas fa-lg fa-user
  content: >
-  Qingqing Cao is a postdoc in the Paul G. Allen School of Computer Science and Engineering at University of Washington. He obtained a computer science Ph.D. at Stony Brook University where he worked with Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His research interests include efficient natural language processing (NLP), mobile computing, and machine learning systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device question answering (MobiSys 2019), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models (ACL 2021). He was a recipient of the Catacosinos Fellowship at Stony Brook University and a Rising Star in Data Science at the University of Chicago. His website is https://awk.ai. 
-  He is on [Google Scholar](https://scholar.google.com/citations?user=vLpPyUUAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/31961604).
-  <br>
+  Qingqing Cao is a postdoc working with Prof. [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html) in the [UW NLP group](https://www.cs.washington.edu/research/nlp) at University of Washington. He obtained a computer science Ph.D. at Stony Brook University where he worked with Prof. [Aruna Balasubramanian](http://www3.cs.stonybrook.edu/~arunab/index.html) and Prof. [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/index.html). His research interests include efficient NLP, mobile computing, and ML systems. He has focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device (visual) question answering (MobiSys 2019, IMWUT 2022), faster Transformer models (ACL 2020), and accurate energy estimation of NLP models (ACL 2021). He was a recipient of the Catacosinos Fellowship at Stony Brook University and a Rising Star in Data Science at the University of Chicago. His website is [awk.ai](https://awk.ai). 
+
 #   <span class="update">Updates</span>: I joined [H2Lab](https://h2lab.cs.washington.edu/) at UW as a postdoc!  <br>
+info:
+ name: Recent Info
+ style: fas fa-lg fa-info-circle
+ content: >
+  <span class="update">Note</span>: If you are an undergraduate or master's student and would like to do research with me (during summer or other times), please complete [this questionnaire](https://forms.gle/MyUVaLBY8CzxA4Ye8), then send me an email with subject "student project application submitted: your name". 
+  <br>
+  Example research topics include: (1) improving storage/memory/compute efficiency of retrieval augmented (generation) models (e.g. build faster open-domain QA models like [FiD](https://github.com/facebookresearch/FiD)); (2) building fast/light-weight/energy-efficient language and vision systems; (3) optimizing/co-designing algorithms and systems for efficient on-device AI applications (e.g. using tools like [TVM](https://github.com/apache/tvm) or [IREE](https://github.com/google/iree) to optimize deployment of DNN/Transformer-based applications). I am generally interested in building efficient models and practical systems for sustainable NLP/AI, so I am happy to collaborate on other possible projects in efficient AI areas.
+
 
 history:
   - name: Education
@@ -218,10 +228,11 @@ notable:
       - name: CDAC [Rising Stars in Data Science](https://cdac.uchicago.edu/rising-stars/#rising-stars-profiles), University of Chicago, 2021
       - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
       - name: Special CS Department Chair Fellowship, Stony Brook University, 2015
+      - name: National Scholarship (top 0.2%), China Ministry of Education, 2013
   - name: Service
     style: fas fa-hand-paper
     items:
-      - name: "**Program committee**: EMNLP 2021, ACL 2021, NAACL 2021, Eurosys 2021 ([shadow](https://2021.eurosys.org/shadow-program-committe.html#pc)), ACL 2020 ([demo](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf)), MobiSys 2018 ([PhD forum](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)), IEEE Transactions on Mobile Computing ([reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf)), JSys Student Editorial Board [Member](https://escholarship.org/uc/jsys/studenteb)."
+      - name: "**Program committee/Reviewer**: [ACL Rolling Review](https://aclrollingreview.org/people), EMNLP 2021, ACL 2021, NAACL 2021, Eurosys 2021 ([shadow](https://2021.eurosys.org/shadow-program-committe.html#pc)), ACL 2020 ([demo](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf)), MobiSys 2018 ([PhD forum](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)), IEEE Transactions on Mobile Computing ([reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf)), JSys Student Editorial Board [Member](https://escholarship.org/uc/jsys/studenteb)."
       - name: "**Secondary reviewer**: [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf), IMC 2017, EuroSys 2019, MobiSys 2017~2020, MobiCom 2019~2021, SIGCOMM 2019~2020"
       - name: "**Volunteering Service**: Student volunteer for MobiSys 2017 and ACL 2020."
       - name: "**Mentor service**: Stony Brook CS [Grad Buddies Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html); MS students: Aditya Prakash, Sruti Kumari, Mohit Marwari, Naga Naravamakula, Chenghao Yang, and Alexandru Eugen Irimiea (Oxford)"

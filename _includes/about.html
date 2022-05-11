@@ -105,6 +105,16 @@
                     <div class="content card card-nested" itemprop="description">{{ page.bio.content | markdownify}}</div>
                 </div>
             </div>
+            <div class="detail" id="{{ page.info.name | downcase}}">
+                <div class="icon">
+                    <i class="fa-lg {{ page.info.style }}"></i>
+                    <span class="mobile-title">{{ page.info.name }}</span>
+                </div>
+                <div class="info">
+                    <h4 class="title text-uppercase"> {{ page.info.name }} </h4>
+                    <div class="content card card-nested" itemprop="description">{{ page.info.content | markdownify}}</div>
+                </div>
+            </div>
             {% for history-item in page.history %}
             <div class="detail" id="{{ history-item.name | downcase }}">
                 <div class="icon">
