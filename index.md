@@ -97,7 +97,7 @@ bio:
 
 #   <span class="update">Updates</span>: I joined [H2Lab](https://h2lab.cs.washington.edu/) at UW as a postdoc!  <br>
 info:
- name: Recent Info
+ name: Info
  style: fas fa-lg fa-info-circle
  content: >
   <span class="update">Note</span>: If you are an undergraduate or master's student and would like to do research with me (during summer or other times), please complete [this questionnaire](https://forms.gle/MyUVaLBY8CzxA4Ye8), then send me an email with subject "student project application submitted: your name". 

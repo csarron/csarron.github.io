@@ -102,7 +102,7 @@
                 </div>
                 <div class="info">
                     <h4 class="title text-uppercase"> Bio </h4>
-                    <div class="content card card-nested" itemprop="description">{{ page.bio.content | markdownify}}</div>
+                    <div class="content card card-nested" itemprop="description">{{ page.bio.content | markdownify | remove: '<p>' | remove: '</p>' }}</div>
                 </div>
             </div>
             <div class="detail" id="{{ page.info.name | downcase}}">
@@ -112,7 +112,7 @@
                 </div>
                 <div class="info">
                     <h4 class="title text-uppercase"> {{ page.info.name }} </h4>
-                    <div class="content card card-nested" itemprop="description">{{ page.info.content | markdownify}}</div>
+                    <div class="content card card-nested" itemprop="description">{{ page.info.content | markdownify |remove: '<p>' | remove: '</p>' }}</div>
                 </div>
             </div>
             {% for history-item in page.history %}
