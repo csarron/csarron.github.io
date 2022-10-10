@@ -150,7 +150,7 @@ pub:
           paper: "MobiVQA: Efficient On-Device Visual Question Answering"
           conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
           resource: >
-            [pdf](/assets/mobivqa.pdf), [bibtex](/assets/mobivqa.bib)
+            [pdf](/assets/mobivqa.pdf), [bibtex](/assets/mobivqa.bib), [slides](https://docs.google.com/presentation/d/1Ad6kBX9U6BMTgDq40Zr8z-J-WleW2E1n3lvgpXiB2qk)
         - id: irene_viz
           type: EMNLP 2021 (demo)
           author: Yash Kumar Lal, Reetu Singh, Harsh Trivedi, <strong>Qingqing Cao</strong>, Aruna Balasubramanian, Niranjan Balasubramanian.
