@@ -33,7 +33,7 @@ contact:
       [CV](/cv.pdf) (Oct 2021)
   - style: weixin
     info: |
-      id: [awk-ai](/wx.jpg)
+      id: [awk-ai](/assets/wx.jpg)
 
 news-name: News
 news:
