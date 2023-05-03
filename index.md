@@ -37,6 +37,10 @@ contact:
 
 news-name: News
 news:
+  - date: 2023-05
+    info: Two papers accepted to ACL 2023
+  - date: 2023-04
+    info: Checkout our survey paper on efficient NLP (accepted to TACL)
   - date: 2022-04
     info: MobiVQA paper accepted to IMWUT/UbiComp 2022
   - date: 2021-10
@@ -146,6 +150,27 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
+        - id: pumer
+          type: ACL 2023 (long paper)
+          author: <strong>Qingqing Cao</strong>, Bhargavi Paranjape and Hannaneh Hajishirzi.
+          paper: "PuMer: Token Reduction via Text-Informed Pruning and Modality-Aware Merging for Efficient Vision Language Models"
+          conference: The 61th Annual Meeting of the Association for Computational Linguistics.
+          resource: >
+            [upcoming](/)
+        - id: odqa
+          type: ACL 2023 (long paper)
+          author: Qin Zhang, Shangsi Chen, Dongkuan Xu, <strong>Qingqing Cao</strong>, Xiaojun Chen, Trevor Cohn and Meng Fang.
+          paper: "A Survey for Efficient Open Domain Question Answering"
+          conference: The 61th Annual Meeting of the Association for Computational Linguistics.
+          resource: >
+            [arxiv](https://arxiv.org/abs/2211.07886)
+        - id: enlp
+          type: TACL 2023
+          author: Marcos Treviso, Ji-Ung Lee, Tianchu Ji, Betty van Aken, <strong>Qingqing Cao</strong>, Manuel R. Ciosici, Michael Hassid, Kenneth Heafield, Sara Hooker, Colin Raffel, Pedro H. Martins, André F. T. Martins, Jessica Zosa Forde, Peter Milder, Edwin Simpson, Noam Slonim, Jesse Dodge, Emma Strubell, Niranjan Balasubramanian, Leon Derczynski, Iryna Gurevych, Roy Schwartz.
+          paper: "Efficient Methods for Natural Language Processing: A Survey"
+          conference: Transactions of the Association for Computational Linguistics.
+          resource: >
+            [arxiv](https://arxiv.org/abs/2209.00099)
         - id: mobivqa
           type: IMWUT/UbiComp 2022
           author: <strong>Qingqing Cao</strong>, Prerna Khanna, Aruna Balasubramanian and Nicholas D. Lane.
