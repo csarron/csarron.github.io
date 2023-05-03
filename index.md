@@ -106,9 +106,7 @@ info:
  content: >
   Note: If you are an undergraduate or master's student and want to work on research projects with me, send me an email with the subject "student research application". 
   <br>
-  <span class="new">[energy-efficient DNNs](https://docs.google.com/document/d/1rCkfQmRUVz_XCTlFL6J6EtT6g8QnHW8e-cnOLel01Zs/edit?usp=sharing)</span>
-  <br>
-  Other research topics include: (1) improving storage/memory/compute efficiency of retrieval/generation models; (2) building fast/light-weight/on-device language and vision systems; . I am generally interested in building efficient models and practical systems for sustainable NLP/AI, so I am happy to collaborate on other possible projects in efficient AI areas.
+  Other research topics include: (1) improving storage/memory/compute efficiency of large language models (LLMs) and retrieval/generation models; (2) building fast/light-weight/on-device language and vision systems; I am generally interested in building efficient models and practical systems for sustainable NLP/AI, so I am happy to collaborate on other possible projects in efficient AI areas.
 
 
 history:
