@@ -151,10 +151,10 @@ pub:
         - id: pumer
           type: ACL 2023 (long paper)
           author: <strong>Qingqing Cao</strong>, Bhargavi Paranjape and Hannaneh Hajishirzi.
-          paper: "PuMer: Token Reduction via Text-Informed Pruning and Modality-Aware Merging for Efficient Vision Language Models"
+          paper: "PuMer: Pruning and Merging Tokens for Efficient Vision Language Models"
           conference: The 61th Annual Meeting of the Association for Computational Linguistics.
           resource: >
-            [upcoming](/)
+            [arxiv](http://arxiv.org/abs/2305.17530)
         - id: odqa
           type: ACL 2023 (long paper)
           author: Qin Zhang, Shangsi Chen, Dongkuan Xu, <strong>Qingqing Cao</strong>, Xiaojun Chen, Trevor Cohn and Meng Fang.
