@@ -154,14 +154,14 @@ pub:
           paper: "PuMer: Pruning and Merging Tokens for Efficient Vision Language Models"
           conference: The 61th Annual Meeting of the Association for Computational Linguistics.
           resource: >
-            [arxiv](http://arxiv.org/abs/2305.17530)
+            [arxiv](http://arxiv.org/abs/2305.17530), [acl](https://aclanthology.org/2023.acl-long.721/), [code](https://github.com/csarron/PuMer)
         - id: odqa
           type: ACL 2023 (long paper)
           author: Qin Zhang, Shangsi Chen, Dongkuan Xu, <strong>Qingqing Cao</strong>, Xiaojun Chen, Trevor Cohn and Meng Fang.
           paper: "A Survey for Efficient Open Domain Question Answering"
           conference: The 61th Annual Meeting of the Association for Computational Linguistics.
           resource: >
-            [arxiv](https://arxiv.org/abs/2211.07886)
+            [arxiv](https://arxiv.org/abs/2211.07886), [acl](https://aclanthology.org/2023.acl-long.808/)
         - id: enlp
           type: TACL 2023
           author: Marcos Treviso, Ji-Ung Lee, Tianchu Ji, Betty van Aken, <strong>Qingqing Cao</strong>, Manuel R. Ciosici, Michael Hassid, Kenneth Heafield, Sara Hooker, Colin Raffel, Pedro H. Martins, André F. T. Martins, Jessica Zosa Forde, Peter Milder, Edwin Simpson, Noam Slonim, Jesse Dodge, Emma Strubell, Niranjan Balasubramanian, Leon Derczynski, Iryna Gurevych, Roy Schwartz.
