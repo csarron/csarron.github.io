@@ -154,7 +154,7 @@ pub:
           paper: "PuMer: Pruning and Merging Tokens for Efficient Vision Language Models"
           conference: The 61th Annual Meeting of the Association for Computational Linguistics.
           resource: >
-            [arxiv](http://arxiv.org/abs/2305.17530), [acl](https://aclanthology.org/2023.acl-long.721/), [code](https://github.com/csarron/PuMer)
+            [paper](/assets/pumer.pdf), [arxiv](http://arxiv.org/abs/2305.17530), [acl](https://aclanthology.org/2023.acl-long.721/), [code](https://github.com/csarron/PuMer), [poster](/assets/pumer-poster.pdf), [slides](/assets/pumer-slides.pdf)
         - id: odqa
           type: ACL 2023 (long paper)
           author: Qin Zhang, Shangsi Chen, Dongkuan Xu, <strong>Qingqing Cao</strong>, Xiaojun Chen, Trevor Cohn and Meng Fang.
