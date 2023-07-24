@@ -168,7 +168,7 @@ pub:
           paper: "Efficient Methods for Natural Language Processing: A Survey"
           conference: Transactions of the Association for Computational Linguistics.
           resource: >
-            [arxiv](https://arxiv.org/abs/2209.00099)
+            [paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00577/116725/Efficient-Methods-for-Natural-Language-Processing)
         - id: mobivqa
           type: IMWUT/UbiComp 2022
           author: <strong>Qingqing Cao</strong>, Prerna Khanna, Aruna Balasubramanian and Nicholas D. Lane.
