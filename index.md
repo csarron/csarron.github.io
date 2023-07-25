@@ -148,6 +148,13 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
+        - id: efficiency
+          type: preprint 
+          author: Hao Peng, <strong>Qingqing Cao</strong>, Jesse Dodge, Matthew E. Peters, Jared Fernandez, Tom Sherborne, Kyle Lo, Sam Skjonsberg, Emma Strubell, Darrell Plessas, Iz Beltagy, Evan Pete Walsh, Noah A. Smith, Hannaneh Hajishirzi.
+          paper: "Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation"
+          conference: Under submission to NeurIPS 2023 Datasets and Benchmarks Track
+          resource: >
+            [arxiv](https://arxiv.org/abs/2307.09701)
         - id: pumer
           type: ACL 2023 (long paper)
           author: <strong>Qingqing Cao</strong>, Bhargavi Paranjape and Hannaneh Hajishirzi.
