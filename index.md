@@ -30,7 +30,7 @@ contact:
       [qicao@cs.washington.edu](mailto:qicao@cs.washington.edu)
   - style: briefcase
     info: |
-      [CV](/cv.pdf) (Oct 2021)
+      [CV](/cv.pdf) (Jul 2023)
   - style: weixin
     info: |
       id: [awk-ai](/assets/wx.jpg)
