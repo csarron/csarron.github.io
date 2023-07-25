@@ -154,7 +154,7 @@ pub:
           paper: "Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation"
           conference: Under submission to NeurIPS 2023 Datasets and Benchmarks Track
           resource: >
-            [arxiv](https://arxiv.org/abs/2307.09701)
+            [arxiv](https://arxiv.org/abs/2307.09701), [code](https://github.com/allenai/efficiency-pentathlon)
         - id: pumer
           type: ACL 2023 (long paper)
           author: <strong>Qingqing Cao</strong>, Bhargavi Paranjape and Hannaneh Hajishirzi.
