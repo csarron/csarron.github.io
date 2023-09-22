@@ -148,11 +148,18 @@ pub:
     name: Publications
     style: fab fa-leanpub
     items:
+        - id: AdANNS
+          type: NeurIPS 2023 
+          author: Aniket Rege*, Aditya Kusupati*, Sharan Ranjit, Alan Fan, <strong>Qingqing Cao</strong>, Sham Kakade, Prateek Jain, and Ali Farhadi.
+          paper: "Adaptive Representations for Semantic Search"
+          conference: Neural Information Processing Systems
+          resource: >
+            [arxiv](https://arxiv.org/abs/2305.19435), [code](https://github.com/RAIVNLab/AdANNS)
         - id: efficiency
           type: preprint 
           author: Hao Peng, <strong>Qingqing Cao</strong>, Jesse Dodge, Matthew E. Peters, Jared Fernandez, Tom Sherborne, Kyle Lo, Sam Skjonsberg, Emma Strubell, Darrell Plessas, Iz Beltagy, Evan Pete Walsh, Noah A. Smith, Hannaneh Hajishirzi.
           paper: "Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation"
-          conference: Under submission to NeurIPS 2023 Datasets and Benchmarks Track
+          conference: Under submission
           resource: >
             [arxiv](https://arxiv.org/abs/2307.09701), [code](https://github.com/allenai/efficiency-pentathlon)
         - id: pumer
