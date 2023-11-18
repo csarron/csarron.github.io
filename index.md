@@ -37,6 +37,8 @@ contact:
 
 news-name: News
 news:
+  - date: 2023-11
+    info: Gave a talk the Google Research Efficient ML workshop
   - date: 2023-05
     info: Two papers accepted to ACL 2023
   - date: 2023-04
@@ -266,13 +268,14 @@ notable:
   - name: Talks
     style: fas fa-bullhorn
     items:
+      - name: "**Efficient and Practical NLP for Diverse Platforms**: Apple (Oct 2023), Google (Nov 2023)"
       - name: "**Efficient NLP for Heterogeneous Platforms**:  Microsoft Research Asia (May 2021),  University of Washington (April 2021), UC Santa Barbara (March 2021), University of Glasgow (March 2021)"
       - name: "**Answering Questions in a Faster and Greener Way**: [SBU 3MT](https://grad.stonybrook.edu/professional-development/sbu3mt/) (April 2021), [talk video](https://youtu.be/WQSl6JLwsPg)"
       - name: "**Efficient Neural Question Answering for Heterogeneous Platforms**: Uchicago CDAC (Jan 2021), [talk video](https://www.youtube.com/watch?v=45PgiWIBo3s)"
   - name: Honors & Awards
     style: fas fa-trophy
     items:
-      - name: "[Postdoc Research Award](https://www.cs.washington.edu/academics/postdoc/research-awards/recipients), University of Washington, 2022"
+      - name: "[Postdoc Research Award](https://www.cs.washington.edu/academics/postdoc/research-awards/recipients), University of Washington, 2022 & 2023"
       - name: "[Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/Funding-Doctoral-Research-Catacosinos-Fellowship-Awardees-2021) (2 out of 232 PhD students), Stony Brook University, 2021"
       - name: CDAC [Rising Stars in Data Science](https://cdac.uchicago.edu/rising-stars/#rising-stars-profiles), University of Chicago, 2021
       - name: MobiSys Student Travel Grant, ACM SIGMOBILE, 2017
@@ -281,7 +284,7 @@ notable:
   - name: Service
     style: fas fa-hand-paper
     items:
-      - name: "**Program committee/Reviewer**: [ACL Rolling Review](https://aclrollingreview.org/people), EMNLP 2021-2022, ACL 2021-2023, NAACL 2021-2022, Eurosys 2021 ([shadow](https://2021.eurosys.org/shadow-program-committe.html#pc)), ACL 2020 ([demo](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf)), MobiSys 2018 ([PhD forum](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)), IEEE Transactions on Mobile Computing ([reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf)), JSys Student Editorial Board [Member](https://escholarship.org/uc/jsys/studenteb)."
+      - name: "**Program committee/Reviewer**: [ACL Rolling Review](https://aclrollingreview.org/people), EMNLP 2021-2023, ACL 2021-2023, NAACL 2021-2022, Eurosys 2021 ([shadow](https://2021.eurosys.org/shadow-program-committe.html#pc)), ACL 2020 ([demo](https://www.aclweb.org/anthology/2020.acl-demos.0.pdf)), MobiSys 2018 ([PhD forum](https://www.sigmobile.org/mobisys/2018/workshops/phdforum18/committee/)), IEEE Transactions on Mobile Computing ([reviewer](https://www.computer.org/csdl/api/v1/periodical/trans/tm/2019/02/08605405/17D45We0UEp/download-article/pdf)), JSys Student Editorial Board [Member](https://escholarship.org/uc/jsys/studenteb)."
       # - name: "**Secondary reviewer**: [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf), IMC 2017, EuroSys 2019, MobiSys 2017~2020, MobiCom 2019~2021, SIGCOMM 2019~2020"
       - name: "**Volunteering Service**: Student volunteer for MobiSys 2017 and ACL 2020."
       - name: "**Mentor service**: Stony Brook CS [Grad Buddies Program](https://www3.cs.stonybrook.edu/~csgso/gradbuddies.html); MS students: Aditya Prakash, Sruti Kumari, Mohit Marwari, Naga Naravamakula, Chenghao Yang, and Alexandru Eugen Irimiea (Oxford)"
