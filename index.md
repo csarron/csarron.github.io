@@ -169,7 +169,7 @@ pub:
         - id: AdANNS
           type: NeurIPS 2023 
           author: Aniket Rege*, Aditya Kusupati*, Sharan Ranjit, Alan Fan, <strong>Qingqing Cao</strong>, Sham Kakade, Prateek Jain, and Ali Farhadi.
-          paper: "Adaptive Representations for Semantic Search"
+          paper: "AdANNS: A Framework for Adaptive Semantic Search"
           conference: Neural Information Processing Systems
           resource: >
             [arxiv](https://arxiv.org/abs/2305.19435), [code](https://github.com/RAIVNLab/AdANNS)
